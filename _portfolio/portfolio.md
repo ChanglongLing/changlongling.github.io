@@ -62,6 +62,16 @@ permalink: /portfolio/
       How are cities funcationally connected? This study re-defines the metropolitan areas using location-based service big data.
     </div>
   </div>
+
+  <div class="project-card">
+    <a href="http://www.yuanyebei.com/index.php?m=YuanYeBei&a=index_show&contentid=276278&r=all" target="_blank">
+      <img src="/images/portfolio/covid-survey.jpg" alt="COVID 2020">
+    </a>
+    <div class="project-title">Urban Sustainability 1st Prize</div>
+    <div class="project-desc">
+      Surveying 22 COVID-19 patients in depth to explore what constrained their medical service-seaking behavior and how the interaction worked.
+    </div>
+  </div>
   
   <div class="project-card">
     <a href="http://www.yuanyebei.com/index.php?m=YuanYeBei&a=index_show&contentid=276278&r=all" target="_blank">
@@ -69,7 +79,7 @@ permalink: /portfolio/
     </a>
     <div class="project-title">Yuanye Cup 2nd Prize</div>
     <div class="project-desc">
-      Planning for livable communities with strong cultural symbols from the railway era.
+      Redeveloping old towns for living with animals -- "The cranes are crying in the marshes, and their voices are heard in the wilds" from ancient Chinese literature _Xiaoya, Shijing_. We use the Community of Life theory to organize the environmental planning and urban redevelopment.
     </div>
   </div>
   
