@@ -15,7 +15,7 @@ I enjoy the processes of planning urban and rural development, addressing real-w
 
 Research Interets
 -----
-**Urban AI**: Advancing responsible, explainable, and generative AI to better urban governance in smart cities
+**Urban AI**: My work aims at advancing responsible, explainable, and generative AI to better urban governance in smart cities
 - AI for Digital Economy: Work from Home, Urban Sustainability × Causal Machine Learning, (Spatial) Econometrics
 - AI for Sustainable Mobility: Human Mobility, Sustainable Transport, & Inclusive Development × Deep Learning
 
