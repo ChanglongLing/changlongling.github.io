@@ -38,31 +38,49 @@ permalink: /portfolio/
 <div class="project-grid">
 
   <div class="project-card">
+    <a href="https://changlongling.github.io/portfolio/" target="_blank">
+      <img src="/images/portfolio/exce_comm.jpg" alt="Excess Commuting">
+    </a>
+    <div class="project-title">Excess Commuting</div>
+    <div class="project-desc">
+      How much can cities reduce commutes by adopting more efficient layouts? This study adopted a disaggregated excess commuting framework to measure the efficiencies by industry sectors using commute location-based service big data.
+    </div>
+  </div>
+
+  <div class="project-card">
+    <img src="/images/portfolio/tce_tcf.jpg" alt="Transportation Emission">
+    <div class="project-title">Transportation Carbon Emission & Footprint</div>
+    <div class="project-desc">
+      It's typically confusing when using the interconnected concepts of transportation carbon emission and footprint. The study delves into a large number of literature and draw comparisons between them to clarify their natures.
+    </div>
+    
+  </div>
+    <div class="project-card">
+    <img src="/images/portfolio/sdk_gd.jpg" alt="Regional Mobility">
+    <div class="project-title">Regional Mobility Networks</div>
+    <div class="project-desc">
+      How are cities funcationally connected? This study re-defines the metropolitan areas using location-based service big data.
+    </div>
+  </div>
+  
+  <div class="project-card">
+    <a href="http://www.yuanyebei.com/index.php?m=YuanYeBei&a=index_show&contentid=276278&r=all" target="_blank">
+      <img src="/images/portfolio/yuanye20.jpg" alt="Yuanye Cup 2020">
+    </a>
+    <div class="project-title">Yuanye Cup 2nd Prize</div>
+    <div class="project-desc">
+      Planning for livable communities with strong cultural symbols from the railway era.
+    </div>
+  </div>
+  
+  <div class="project-card">
     <img src="/images/portfolio/resi_comm.jpg" alt="Residential Community">
     <div class="project-title">Residential Community Planning</div>
     <div class="project-desc">
       Planning for livable communities with strong cultural symbols from the railway era.
     </div>
   </div>
-
-  <div class="project-card">
-    <img src="/images/portfolio/sdk_gd.jpg" alt="Regional Mobility">
-    <div class="project-title">Regional Mobility Networks</div>
-    <div class="project-desc">
-      Re-defining the metropolitan areas using location-based service big data.
-    </div>
-  </div>
-
-  <div class="project-card">
-    <a href="https://your-link.com/project3" target="_blank">
-      <img src="/images/portfolio/exce_comm.jpg" alt="Excess Commuting">
-    </a>
-    <div class="project-title">Excess Commuting</div>
-    <div class="project-desc">
-      Disaggregated commuting efficiency measures by industry sectors using excess commutes.
-    </div>
-  </div>
-
+  
   <!-- Add more project-cards as needed -->
 
 </div>
