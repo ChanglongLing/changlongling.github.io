@@ -24,5 +24,6 @@ News
 -----
 - **[Sep 2024]** Awarded [Hubert M. Blalock Fellowships](https://csss.uw.edu/about/blalock-fellowship) by the Center for Statistics and the Social Sciences (CSSS), University of Washington!
 - **[Sep 2024]** New journey, PhD life, starts at the University of Washington!
+- **[Jun 2024]** Graduated with distinction from Peking University!
 
 
