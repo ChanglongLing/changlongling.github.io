@@ -20,5 +20,5 @@ Inclusive Urban and Regional Development
 
 Manuscript under Review
 -----
-1. **Ling, C.**, Chen, Z.*, Yang, J., & Yang, T. Evaluating urban inclusiveness for transit-oriented development with location affordability and its influencing factors in a developing megacity.
+1. **Ling, C.**, Chen, Z.*, Yang, J., & Yang, T. [Evaluating urban inclusiveness for transit-oriented development with location affordability and its influencing factors in a developing megacity](https://dx.doi.org/10.2139/ssrn.5085292).
 2. **Ling, C.**, Xie, B.*, & An, Z. How do street network and land use interactively shape traffic safety: A nonlinear framework considering population heterogeneity. 
