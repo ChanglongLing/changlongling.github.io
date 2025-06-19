@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my space! I'm Changlong Ling, currently pursuing my Doctorate degree in Computational Urban Science, with a strong passion to develop artificial intelligence (AI) algorithms to advance urban and transportation technologies and policy decision-making. Before my doctoral studies, I accumulated over five years of research experience analyzing urban dynamics using multi-source big data and machine learning, as well as eight years of professional practice in urban and transportation planning and urban design.
+Hi! Welcome to my space! 
+I'm Changlong Ling, currently a first-year PhD student in the Interdisciplinary PhD in Urban Design and Planning Program at the University of Washington, Seattle. I work with Prof. Qing Shen [https://urbdp.be.uw.edu/people/qing-shen/]. Also, I get amazing collaboration with Prof. Zhenhua Chen and Prof. Peng Chen. I'm passionate about developing nonparametric statistical methods and artificial intelligence (AI) algorithms to advance urban and transportation technologies and public policy decision-making. Before my doctoral studies, I accumulated over five years of research experience analyzing urban dynamics using multi-source big data and machine learning, as well as eight years of professional practice in urban and transportation planning and urban design.
 
 A data-driven personal website
 ======
