@@ -38,9 +38,7 @@ permalink: /portfolio/
 <div class="project-grid">
 
   <div class="project-card">
-    <a href="https://your-link.com/project1" target="_blank">
-      <img src="/images/portfolio/project1.jpg" alt="Urban Visual Clusters">
-    </a>
+    <img src="/images/portfolio/resi_comm.jpg" alt="Residential Community">
     <div class="project-title">Residential Community Planning</div>
     <div class="project-desc">
       A global city-level image analysis using deep learning for visual clustering and transport risk assessment.
@@ -48,10 +46,8 @@ permalink: /portfolio/
   </div>
 
   <div class="project-card">
-    <a href="https://your-link.com/project2" target="_blank">
-      <img src="/images/portfolio/project2.jpg" alt="Regional Mobility">
-    </a>
-    <div class="project-title">URBAN VISUAL INTELLIGENCE</div>
+    <img src="/images/portfolio/sdk_gd.jpg" alt="Regional Mobility">
+    <div class="project-title">Regional Mobility Networks</div>
     <div class="project-desc">
       Developing an AI-powered pipeline for large-scale urban image feature extraction and analytics.
     </div>
@@ -59,11 +55,11 @@ permalink: /portfolio/
 
   <div class="project-card">
     <a href="https://your-link.com/project3" target="_blank">
-      <img src="/images/project3.jpg" alt="Great Streets">
+      <img src="/images/exce_comm.jpg" alt="Excess Commuting">
     </a>
-    <div class="project-title">GREAT STREETS</div>
+    <div class="project-title">Excess Commuting</div>
     <div class="project-desc">
-      Interactive mapping and scoring of street quality across major cities using open data.
+      Disaggregated commuting efficiency measures by industry sectors using excess commutes.
     </div>
   </div>
 
