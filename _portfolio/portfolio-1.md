@@ -39,7 +39,7 @@ permalink: /portfolio/
 
   <div class="project-card">
     <a href="https://your-link.com/project1" target="_blank">
-      <img src="/images/project1.jpg" alt="Urban Visual Clusters">
+      <img src="/images/portfolio/project1.jpg" alt="Urban Visual Clusters">
     </a>
     <div class="project-title">URBAN VISUAL CLUSTERS & ROAD TRANSPORT FATALITIES</div>
     <div class="project-desc">
