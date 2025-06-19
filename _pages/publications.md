@@ -10,8 +10,11 @@ Sustainable Mobility
 
 Urban and Regional Development
 -----
-1.	**Ling, C.***, & Liu, Z. High-density cities and compact development: Sino-foreign comparisons and implications. _Urban Planning International_, 2024, 39(2): 1-8. (in Chinese)
-2.	Xie, B., **Ling, C.**, & Wang, L.* Impacts of urban street patterns on traffic safety: A case study of Wuhan city. _City Planning Review_, 2022, 46(8): 75-83. (in Chinese)
-3.	Zhou, J. & **Ling, C.*** Temporal variations of network connectivity and degree centrality in the middle of the Yangtze River (2001-2016). _Resources and Environment in the Yangtze Basin_, 2021, 30(3): 544-553. (in Chinese)
-4.	Ma, Y., Ling, C., & Wu, J.* Exploring the spatial distribution characteristics of emotions of Weibo users in Wuhan waterfront based on gender differences using social media texts. _ISPRS International Journal of Geo-Information_, 2020, 9(8), 465.
+1.	Huang, Y., **Ling, C.**, Zeng, E., & Yang, J.* Inclusive home-based community elderly care services: Implication of the Japan’s "retail facility + elderly care" model. _Urban Planning International_, 2025. (in Chinese)
+2.	**Ling, C.*** & Liu, Z. High-density cities and compact development: Sino-foreign comparisons and implications. _Urban Planning International_, 2024, 39(2): 1-8. (in Chinese)
+3.	Yang, J.*, **Ling, C.**, & Li, J. Hypothesizing “Shenzhen - Hong Kong Metropolitan Area” based on Commuting Linkage and Institutional Change. Urban Development Studies, 2024.
+4.	Xie, B., **Ling, C.**, & Wang, L.* Research on the impacts of urban street patterns on traffic safety: A case study of Wuhan city. _City Planning Review_, 2022, 46(8): 75-83. (in Chinese)
+5.	Xie, B., Chen, X., **Ling, C.**, Li, X., & Wei, W.* Exploring the Health-Seeking Travel Behaviors and Constraints of COVID-19 Patients in Wuhan, China. _Urban Development Studies_, 2021, 28(3): 18-26+49. (in Chinese)
+6.	Zhou, J. & **Ling, C.*** Study on temporal variations of network connectivity and degree centrality in the middle of the Yangtze River (2001-2016). _Resources and Environment in the Yangtze Basin_, 2021, 30(3): 544-553. (in Chinese)
+7.	Ma, Y., Ling, C., & Wu, J.* Exploring the spatial distribution characteristics of emotions of Weibo users in Wuhan waterfront based on gender differences using social media texts. _ISPRS International Journal of Geo-Information_, 2020, 9(8), 465.
 
