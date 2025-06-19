@@ -38,20 +38,22 @@ permalink: /portfolio/
 <div class="project-grid">
 
   <div class="project-card">
-    <a href="https://changlongling.github.io/portfolio/" target="_blank">
+    <a href="https://doi.org/10.1016/j.jtrangeo.2024.103820" target="_blank">
       <img src="/images/portfolio/exce_comm.jpg" alt="Excess Commuting">
     </a>
     <div class="project-title">Excess Commuting</div>
     <div class="project-desc">
-      How much can cities reduce commutes by adopting more efficient layouts? This study adopted a disaggregated excess commuting framework to measure the efficiencies by industry sectors using commute location-based service big data.
+      How much can cities reduce commutes by adopting more efficient layouts? This study employed a disaggregated excess commuting framework to measure the efficiencies by industry sectors using commute location-based service big data.
     </div>
   </div>
 
   <div class="project-card">
-    <img src="/images/portfolio/tce_tcf.jpg" alt="Transportation Emission">
+    <a href="https://doi.org/10.1038/s44333-024-00013-5" target="_blank">
+      <img src="/images/portfolio/tce_tcf.jpg" alt="Transportation Emission">
+    </a>
     <div class="project-title">Transportation Carbon Emission & Footprint</div>
     <div class="project-desc">
-      It's typically confusing when using the interconnected concepts of transportation carbon emission and footprint. The study delves into a large number of literature and draw comparisons between them to clarify their natures.
+      It's often confusing when using the interconnected concepts of transportation carbon emission and footprint. The study delves into a large number of literature and draw comparisons between them to clarify their natures.
     </div>
     
   </div>
@@ -59,17 +61,17 @@ permalink: /portfolio/
     <img src="/images/portfolio/sdk_gd.jpg" alt="Regional Mobility">
     <div class="project-title">Regional Mobility Networks</div>
     <div class="project-desc">
-      How are cities funcationally connected? This study re-defines the metropolitan areas using location-based service big data.
+      How are cities funcationally connected? This study applies a mobility big data-driven approach and re-defines the metropolitan areas using location-based service big data.
     </div>
   </div>
 
   <div class="project-card">
-    <a href="http://www.yuanyebei.com/index.php?m=YuanYeBei&a=index_show&contentid=276278&r=all" target="_blank">
+    <a href="http://wupen.org/competitions/17?type=award" target="_blank">
       <img src="/images/portfolio/covid-survey.jpg" alt="COVID 2020">
     </a>
-    <div class="project-title">Urban Sustainability 1st Prize</div>
+    <div class="project-title">WUPEN iCity 1st Prize</div>
     <div class="project-desc">
-      Surveying 22 COVID-19 patients in depth to explore what constrained their medical service-seaking behavior and how the interaction worked in Feb to Apr 2020 in Wuhan, China.
+      Surveying twenty two COVID-19 patients in depth to explore what constrained their medical-service-seeking behavior and how the interaction worked in February to April 2020 in Wuhan, China.
     </div>
   </div>
   
@@ -87,7 +89,7 @@ permalink: /portfolio/
     <img src="/images/portfolio/comm_cent.jpg" alt="Community Center">
     <div class="project-title">Community Center Design</div>
     <div class="project-desc">
-      Planning for livable communities with strong cultural symbols. Combining green buildings technologies with site-dependent spatial forms, the community center aims to reshape activities within the space and beyond.
+      Planning for livable communities with strong cultural symbols. Combining green building technologies with site-dependent spatial forms, the community center aims to reshape activities within the space and beyond.
     </div>
   </div>
   
