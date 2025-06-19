@@ -26,5 +26,5 @@ Selected Honors
 
 Skills
 ======
-* Machine Learning, (Spatial) Econometrics, Spatial & Network Analysis, and Planning & Design
+* Machine Learning, (Spatial) Econometrics, Spatial & Network Analysis, and Urban Planning & Design
 
