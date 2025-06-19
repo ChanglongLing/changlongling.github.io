@@ -9,7 +9,7 @@ Sustainable Transportation and Human Mobility
 2. **Ling, C.**, Niu, X., Yang, J., Zhou, J., & Yang, T.* [Unraveling heterogeneity and dynamics of commuting efficiency: Industry-level insights into evolving efficiency gaps based on a disaggregated excess-commuting framework](https://doi.org/10.1016/j.jtrangeo.2024.103820). _Journal of Transport Geography_, 2024, 115: 103820.
 3. Xie, B., **Ling, C.**, & Wang, L.* Research on the impacts of urban street patterns on traffic safety: A case study of Wuhan city. _City Planning Review_, 2022, 46(8): 75-83. (in Chinese)
 
-Urban and Regional Development
+Inclusive Urban and Regional Development
 -----
 1.	Huang, Y., **Ling, C.**, Zeng, E., & Yang, J.* Inclusive home-based community elderly care services: Implication of the Japan’s "retail facility + elderly care" model. _Urban Planning International_, 2025. (in Chinese)
 2.	**Ling, C.*** & Liu, Z. High-density cities and compact development: Sino-foreign comparisons and implications. _Urban Planning International_, 2024, 39(2): 1-8. (in Chinese)
