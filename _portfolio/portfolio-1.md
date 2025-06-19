@@ -55,7 +55,7 @@ permalink: /portfolio/
 
   <div class="project-card">
     <a href="https://your-link.com/project3" target="_blank">
-      <img src="/images/exce_comm.jpg" alt="Excess Commuting">
+      <img src="/images/portfolio/exce_comm.jpg" alt="Excess Commuting">
     </a>
     <div class="project-title">Excess Commuting</div>
     <div class="project-desc">
