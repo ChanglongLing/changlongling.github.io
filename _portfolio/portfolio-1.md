@@ -41,7 +41,7 @@ permalink: /portfolio/
     <img src="/images/portfolio/resi_comm.jpg" alt="Residential Community">
     <div class="project-title">Residential Community Planning</div>
     <div class="project-desc">
-      A global city-level image analysis using deep learning for visual clustering and transport risk assessment.
+      Planning for livable communities with strong cultural symbols from the railway era.
     </div>
   </div>
 
@@ -49,7 +49,7 @@ permalink: /portfolio/
     <img src="/images/portfolio/sdk_gd.jpg" alt="Regional Mobility">
     <div class="project-title">Regional Mobility Networks</div>
     <div class="project-desc">
-      Developing an AI-powered pipeline for large-scale urban image feature extraction and analytics.
+      Re-defining the metropolitan areas using location-based service big data.
     </div>
   </div>
 
