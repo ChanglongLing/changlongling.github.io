@@ -36,7 +36,6 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=BOv54g0AAAAJ&hl=en"
   orcid            : "https://orcid.org/0009-0008-9524-234X"
-  linkedin         : "https://www.linkedin.com/in/changlongling"
   researchgate     : "https://www.researchgate.net/profile/Changlong-Ling"
   scopus           : # URL
 
@@ -58,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/changlongling"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
