@@ -69,7 +69,7 @@ permalink: /portfolio/
     </a>
     <div class="project-title">Urban Sustainability 1st Prize</div>
     <div class="project-desc">
-      Surveying 22 COVID-19 patients in depth to explore what constrained their medical service-seaking behavior and how the interaction worked.
+      Surveying 22 COVID-19 patients in depth to explore what constrained their medical service-seaking behavior and how the interaction worked in Feb to Apr 2020 in Wuhan, China.
     </div>
   </div>
   
@@ -79,15 +79,15 @@ permalink: /portfolio/
     </a>
     <div class="project-title">Yuanye Cup 2nd Prize</div>
     <div class="project-desc">
-      Redeveloping old towns for living with animals -- "The cranes are crying in the marshes, and their voices are heard in the wilds" from ancient Chinese literature _Xiaoya, Shijing_. We use the Community of Life theory to organize the environmental planning and urban redevelopment.
+      Redeveloping old towns for living with animals -- "The cranes are crying in the marshes, and their voices are heard in the wilds", a wisdom from ancient Chinese literature <i>Xiaoya, Shijing</i>. We use the modern Community of Life theory to implement this vision and organize the environmental planning and urban redevelopment.
     </div>
   </div>
   
   <div class="project-card">
-    <img src="/images/portfolio/resi_comm.jpg" alt="Residential Community">
-    <div class="project-title">Residential Community Planning</div>
+    <img src="/images/portfolio/comm_cent.jpg" alt="Community Center">
+    <div class="project-title">Community Center Design</div>
     <div class="project-desc">
-      Planning for livable communities with strong cultural symbols from the railway era.
+      Planning for livable communities with strong cultural symbols. Combining green buildings technologies with site-dependent spatial forms, the community center aims to reshape activities within the space and beyond.
     </div>
   </div>
   
