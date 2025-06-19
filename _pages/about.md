@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi! Welcome to my space! I'm Changlong Ling, currently pursuing my Doctorate degree in Computational Urban Science, with a strong passion to develop artificial intelligence (AI) algorithms to advance urban and transportation technologies and policy decision-making. Before my doctoral studies, I accumulated over five years of research experience analyzing urban dynamics using multi-source big data and machine learning, as well as eight years of professional practice in urban and transportation planning and urban design.
 
 A data-driven personal website
 ======
