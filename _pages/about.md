@@ -17,12 +17,12 @@ Research Interets
 -----
 **Urban AI**: My work aims at advancing responsible, explainable, and generative AI to better urban governance in smart cities
 - AI for Digital Economy: Digital Life, Work from Home, Urban Sustainability × Causal Machine Learning, (Spatial) Econometrics
-- AI for Sustainable Transportation and Human Mobility: Human Mobility, Transportation Decarbonization, & Autonomous Vehicles for Public Transit × Deep Learning
-- AI for Inclusive Urban and Regional Development: Urban Planning, Regional Integration, & Inclusive Cities × Networks & Optimizations
+- AI for Sustainable Transportation and Human Mobility: Transportation Decarbonization, Autonomous Vehicles for Public Transit, & Human Mobility × Deep Learning
+- AI for Inclusive Urban and Regional Development: Urban Planning, Regional Integration, & Inclusive Cities × Networks & Spatial Optimizations
 
 News
 -----
 - **[Sep 2024]** Awarded [Hubert M. Blalock Fellowships](https://csss.uw.edu/about/blalock-fellowship) by the Center for Statistics and the Social Sciences (CSSS), University of Washington!
-- **[Sep 2024]** New journey, PhD life, starts at the University of Washington!
+- **[Sep 2024]** New journey--PhD life--starts at the University of Washington!
 
 
