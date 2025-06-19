@@ -18,7 +18,7 @@ Research Interets
 - AI for Sustainable Mobility: Human Mobility, Sustainable Transport, & Inclusive Development × Deep Learning
 
 News
-------
+======
 - **[June 2025]** Get started! 
 
 
