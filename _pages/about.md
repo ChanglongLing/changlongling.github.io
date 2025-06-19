@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,13 +14,13 @@ Before my doctoral studies, I received my Bachelor's degrees in Urban-Rural Plan
 I enjoy the processes of planning urban and rural spatial development, addressing real-world problems, and creating continuous values for marginalized populations and people full of longing. If you are interested in my research work, feel fee to contact me.
 
 Research Interets
-======
+-----
 **Urban AI**: Advancing responsible, explainable, and generative AI to better urban governance for smart cities
 - AI for Digital Economy: Work from Home, Urban Sustainability × Causal Machine Learning, (Spatial) Econometrics
 - AI for Sustainable Mobility: Human Mobility, Sustainable Transport, & Inclusive Development × Deep Learning
 
 News
-======
+-----
 - **[June 2025]** Get started! 
 
 
