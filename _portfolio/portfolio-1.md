@@ -41,7 +41,7 @@ permalink: /portfolio/
     <a href="https://your-link.com/project1" target="_blank">
       <img src="/images/portfolio/project1.jpg" alt="Urban Visual Clusters">
     </a>
-    <div class="project-title">URBAN VISUAL CLUSTERS & ROAD TRANSPORT FATALITIES</div>
+    <div class="project-title">Residential Community Planning</div>
     <div class="project-desc">
       A global city-level image analysis using deep learning for visual clustering and transport risk assessment.
     </div>
@@ -49,7 +49,7 @@ permalink: /portfolio/
 
   <div class="project-card">
     <a href="https://your-link.com/project2" target="_blank">
-      <img src="/images/project2.jpg" alt="Urban Visual Intelligence">
+      <img src="/images/portfolio/project2.jpg" alt="Regional Mobility">
     </a>
     <div class="project-title">URBAN VISUAL INTELLIGENCE</div>
     <div class="project-desc">
