@@ -12,14 +12,14 @@ redirect_from:
 <i class="fa fa-download"></i> Download my [CV (PDF)](/files/Changlong_Ling_CV.pdf)
 
 Education
-======
+-----
 * Interdisciplinary Ph.D. in Urban Design and Planning, University of Washington, 2024-present
 * M.S. in Urban and Regional Planning, Peking University, 2024
 * B.S. in Urban and Rural Planning, Wuhan University, 2021
 * B.A. in Economics, Wuhan University, 2021
 
 Selected Honors
-=====
+-----
 * Hubert M. Blalock Fellowships (2024), University of Washington (~5%)
 * Excellent Graduates (2024), Peking University
 * Excellent Graduates (2021), Wuhan University
@@ -27,6 +27,6 @@ Selected Honors
 * National Scholarships (2019), Ministry of Education, P.R. China (0.5%)
 
 Skills
-======
+-----
 * Machine Learning, (Spatial) Econometrics, Spatial & Network Analysis, and Urban Planning & Design
 
