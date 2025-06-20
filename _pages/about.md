@@ -11,7 +11,7 @@ Hi! Welcome to my space! I'm Changlong Ling, currently a first-year PhD student 
 
 Before my doctoral studies, I received my dual bachelor's degrees in Urban and Rural Planning and Economics from Wuhan University and master's degree in Urban and Regional Planning from Peking University in China. I accumulated over five years of research experience analyzing urban dynamics using multi-source spatial-temporal big data and machine learning techniques, as well as eight years of professional practice in urban and transportation planning and urban design. I studied in Wuhan and Shenzhen and led projects that were put into practice in Wuhan, Xuchang, Suizhou, Dongguan and Heyuan cities in China.
 
-I enjoy the processes of planning urban and rural development, addressing real-world problems, and creating continuous values for marginalized populations and people full of longing. If you are interested in my research work, feel free to contact me.
+I view planning as a shared action and enjoy the processes of planning urban and rural development, addressing real-world problems, and creating continuous values for marginalized populations and people full of longing. If you are interested in my research work, feel free to contact me.
 
 Research Interets
 -----
@@ -25,5 +25,3 @@ News
 - **[Sep 2024]** Awarded [Hubert M. Blalock Fellowships](https://csss.uw.edu/about/blalock-fellowship) by the Center for Statistics and the Social Sciences (CSSS), University of Washington!
 - **[Sep 2024]** New journey, PhD life, starts at the University of Washington!
 - **[Jun 2024]** Graduated with distinction from Peking University!
-
-
