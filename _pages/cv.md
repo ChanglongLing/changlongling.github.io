@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download my [CV (PDF)](/files/Changlong_Ling_CV.pdf)
+
 Education
 ======
 * Interdisciplinary Ph.D. in Urban Design and Planning, University of Washington, 2024-present
