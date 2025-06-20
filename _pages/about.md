@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my space! I'm Changlong Ling, currently a first-year PhD student in the Interdisciplinary PhD Program in Urban Design and Planning at the University of Washington, Seattle. I'm passionate about developing nonparametric statistical methods and artificial intelligence (AI) algorithms to advance urban and transportation technologies and public policy decision-making. I'm fortunate to be advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/). 
+Hi! Welcome to my space! I'm **Changlong Ling**, currently a first-year PhD student in the Interdisciplinary PhD Program in Urban Design and Planning at the **_University of Washington, Seattle_**. I'm passionate about developing nonparametric statistical methods and artificial intelligence (AI) algorithms to advance urban and transportation technologies and public policy decision-making. I'm fortunate to be advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/). 
 
 Before my doctoral studies, I received my dual bachelor's degrees in Urban and Rural Planning and Economics from Wuhan University and master's degree in Urban and Regional Planning from Peking University in China. I accumulated over five years of research experience analyzing urban dynamics using multi-source spatial-temporal big data and machine learning techniques, as well as eight years of professional practice in urban and transportation planning and urban design. I studied in Wuhan and Shenzhen and led projects that were put into practice in Wuhan, Xuchang, Suizhou, Dongguan and Heyuan cities in China.
 
-I view planning as a shared action and enjoy the processes of planning urban and rural development, addressing real-world problems, and creating continuous values for marginalized populations and people full of longing. If you are interested in my research work, feel free to contact me.
+I view planning as a shared action and enjoy the processes of planning urban and rural development, addressing real-world problems, and creating continuous values for marginalized populations and people full of longing. If you are interested in my research work, feel free to contact me :)
 
 Research Interets
 -----
