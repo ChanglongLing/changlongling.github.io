@@ -41,9 +41,9 @@ permalink: /portfolio/
     <a href="https://doi.org/10.1016/j.jtrangeo.2024.103820" target="_blank">
       <img src="/images/portfolio/exce_comm.jpg" alt="Excess Commuting">
     </a>
-    <div class="project-title">Excess Commuting</div>
+    <div class="project-title">Disaggregated Excess Commuting</div>
     <div class="project-desc">
-      How much can cities reduce commutes by adopting more efficient layouts? This study employed a disaggregated excess commuting framework to measure the efficiencies by industry sectors using commute location-based service big data.
+      How much can cities reduce commutes by adopting more efficient layouts? This study developed a disaggregated excess commuting framework to measure the efficiencies by industry sectors using commute location-based service big data.
     </div>
   </div>
 
@@ -69,7 +69,7 @@ permalink: /portfolio/
     <a href="http://wupen.org/competitions/17?type=award" target="_blank">
       <img src="/images/portfolio/covid-survey.jpg" alt="COVID 2020">
     </a>
-    <div class="project-title">WUPEN iCity 1st Prize</div>
+    <div class="project-title">WUPEN Survey 1st Prize</div>
     <div class="project-desc">
       Surveying twenty two COVID-19 patients in depth to explore what constrained their medical-service-seeking behavior and how the interaction worked in February to April 2020 in Wuhan, China.
     </div>
@@ -79,7 +79,7 @@ permalink: /portfolio/
     <a href="http://www.yuanyebei.com/index.php?m=YuanYeBei&a=index_show&contentid=276278&r=all" target="_blank">
       <img src="/images/portfolio/yuanye20.jpg" alt="Yuanye Cup 2020">
     </a>
-    <div class="project-title">Yuanye Cup 2nd Prize</div>
+    <div class="project-title">YUANYE Cup 2nd Prize</div>
     <div class="project-desc">
       Redeveloping old towns for living with animals -- "The cranes are crying in the marshes, and their voices are heard in the wilds", a wisdom from ancient Chinese literature <i>Xiaoya, Shijing</i>. We use the modern Community of Life theory to implement this vision and organize the environmental planning and urban redevelopment.
     </div>
