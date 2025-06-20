@@ -3,6 +3,8 @@ title: "Publications"
 permalink: /publications/
 ---
 
+Full list: [Google Scholar](https://scholar.google.com/citations?user=BOv54g0AAAAJ&hl=en). * indicates corresponding author(s).
+
 Sustainable Transportation and Human Mobility
 -----
 1. **Ling, C.**, Tang, J.*, Zhao, P., Xu, L., Lu, Q., Yang, L., Huang, F., Lyu, W., & Yang, J. [Unraveling the relation between carbon emission and carbon footprint: A literature review and framework for sustainable transportation](https://doi.org/10.1038/s44333-024-00013-5). _npj Sustainable Mobility and Transport_, 2024, 1(13).
