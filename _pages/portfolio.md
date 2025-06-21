@@ -9,6 +9,7 @@ permalink: /portfolio/
   flex-wrap: wrap;
   gap: 2em;
   justify-content: center;
+  align-items: flex-start;
 }
 .project-card {
   width: 300px;
