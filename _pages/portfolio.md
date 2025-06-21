@@ -55,25 +55,24 @@ permalink: /portfolio/
     <div class="project-desc">
       It's often confusing when using the interconnected concepts of transportation carbon emission and footprint. The study delves into a large number of literature and draw comparisons between them to clarify their natures.
     </div>
-    
   </div>
-    <div class="project-card">
+
+  <div class="project-card">
     <img src="/images/portfolio/sdk_gd.jpg" alt="Regional Mobility">
     <div class="project-title">Regional Mobility Networks</div>
     <div class="project-desc">
       How are cities funcationally connected? This study applies a mobility big data-driven approach and re-defines the metropolitan areas using location-based service big data.
     </div>
   </div>
-  
-  </div>
-    <div class="project-card">
+
+  <div class="project-card">
     <img src="/images/portfolio/jiangdong.jpg" alt="Traffic Safety">
     <div class="project-title">Road Traffic Safety</div>
     <div class="project-desc">
-     This project proposes road redevelopment and traffic light management strategies to address the problems faced by fast-urbanizing areas of Heyuan City. Local solutions have been developed and piloted to mitigate conflicts arising from land development, increased traffic demand, and the shortage of road space.
+      This project proposes road redevelopment and traffic light management strategies to address the problems faced by fast-urbanizing areas of Heyuan City. Local solutions have been developed and piloted to mitigate conflicts arising from land development, increased traffic demand, and the shortage of road space.
     </div>
   </div>
-  
+
   <div class="project-card">
     <a href="http://wupen.org/competitions/17?type=award" target="_blank">
       <img src="/images/portfolio/covid-survey.jpg" alt="COVID 2020">
@@ -83,7 +82,7 @@ permalink: /portfolio/
       Surveying twenty two COVID-19 patients in depth to explore what constrained their medical-service-seeking behavior and how the interaction worked in February to April 2020 in Wuhan, China.
     </div>
   </div>
-  
+
   <div class="project-card">
     <a href="http://www.yuanyebei.com/index.php?m=YuanYeBei&a=index_show&contentid=276278&r=all" target="_blank">
       <img src="/images/portfolio/yuanye20.jpg" alt="Yuanye Cup 2020">
@@ -93,7 +92,7 @@ permalink: /portfolio/
       Redeveloping old towns for living with animals -- "The cranes are crying in the marshes, and their voices are heard in the wilds", a wisdom from ancient Chinese literature <i>Xiaoya, Shijing</i>. We use the modern Community of Life theory to implement this vision and organize the environmental planning and urban redevelopment.
     </div>
   </div>
-  
+
   <div class="project-card">
     <img src="/images/portfolio/comm_cent.jpg" alt="Community Center">
     <div class="project-title">Community Center Design</div>
@@ -101,7 +100,5 @@ permalink: /portfolio/
       Planning for livable communities with strong cultural symbols. Combining green building technologies with site-dependent spatial forms, the community center aims to reshape activities within the space and beyond.
     </div>
   </div>
-  
-  <!-- Add more project-cards as needed -->
 
 </div>
