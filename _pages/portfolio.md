@@ -13,7 +13,6 @@ permalink: /portfolio/
 }
 .project-card {
   width: 300px;
-  margin-bottom: 2em;
   text-align: center;
   position: relative;
   box-sizing: border-box;
