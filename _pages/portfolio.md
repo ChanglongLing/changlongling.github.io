@@ -26,7 +26,7 @@ permalink: /portfolio/
 }
 .project-title {
   font-weight: bold;
-  margin-top: 0.7em;
+  margin-top: 0.5em;
   font-size: 1.1em;
   letter-spacing: 0.04em;
   cursor: pointer;
