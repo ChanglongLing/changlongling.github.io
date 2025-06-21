@@ -27,7 +27,7 @@ permalink: /portfolio/
 .project-title {
   font-weight: bold;
   margin-top: 0.5em;
-  font-size: 0.8em;
+  font-size: 1em;
   letter-spacing: 0.04em;
   cursor: pointer;
   display: flex;
@@ -36,14 +36,14 @@ permalink: /portfolio/
   user-select: none;
 }
 .toggle-arrow {
-  font-size: 1.2em;
+  font-size: 1em;
   margin-left: 0.4em;
   transition: transform 0.2s;
 }
 .project-desc {
   color: #666;
-  margin-top: 0.5em;
-  font-size: 0.98em;
+  margin-top: 0.3em;
+  font-size: 0.9em;
   max-height: 0;
   overflow: hidden;
   opacity: 0;
@@ -52,7 +52,7 @@ permalink: /portfolio/
 .project-desc.open {
   max-height: 240px;
   opacity: 1;
-  margin-bottom: 0.6em;
+  margin-bottom: 0.4em;
 }
 .project-title .toggle-arrow.open {
   transform: rotate(90deg);
