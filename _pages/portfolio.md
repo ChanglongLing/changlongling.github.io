@@ -122,7 +122,7 @@ permalink: /portfolio/
       </span>
     </div>
     <div class="project-desc">
-      This project proposes city-level strategic plans of transportation systems, including roads, railway, airports, and water transportation.
+      This project develops city-level strategic plans of comprehensive transportation systems, including roads, railway, airports, and water transportation.
     </div>
   </div>
 
@@ -137,7 +137,7 @@ permalink: /portfolio/
       </span>
     </div>
     <div class="project-desc">
-      This project proposes road redevelopment and traffic light management strategies to address the problems faced by fast-urbanizing areas of Heyuan City. Local solutions have been developed and piloted to mitigate conflicts arising from land development, increased traffic demand, and the shortage of road space.
+      This project proposes road redevelopment and traffic light management strategies to address the problems faced by fast-urbanizing new town areas of Heyuan City. Local solutions have been developed and piloted to mitigate conflicts arising from fast land development, increasing traffic demand, and the shortage of road capacity.
     </div>
   </div>
 
