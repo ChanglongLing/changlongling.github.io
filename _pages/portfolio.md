@@ -68,7 +68,11 @@ permalink: /portfolio/
     </a>
     <div class="project-title" onclick="toggleDesc(this)">
       Disaggregated Excess Commuting
-      <span class="toggle-arrow">&#9654;</span>
+      <span class="toggle-arrow" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 18 18">
+          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
+        </svg>
+      </span>
     </div>
     <div class="project-desc">
       How much can cities reduce commutes by adopting more efficient layouts? This study developed a disaggregated excess commuting framework to measure the efficiencies by industry sectors using commute location-based service big data.
