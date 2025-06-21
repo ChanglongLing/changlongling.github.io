@@ -64,7 +64,16 @@ permalink: /portfolio/
       How are cities funcationally connected? This study applies a mobility big data-driven approach and re-defines the metropolitan areas using location-based service big data.
     </div>
   </div>
-
+  
+  </div>
+    <div class="project-card">
+    <img src="/images/portfolio/jiangdong.jpg" alt="Traffic Safety">
+    <div class="project-title">Road Traffic Safety</div>
+    <div class="project-desc">
+     This project proposes road redevelopment and traffic light management strategies to address the problems faced by fast-urbanizing areas of Heyuan City. Local solutions have been developed and piloted to mitigate conflicts arising from land development, increased traffic demand, and the shortage of road space.
+    </div>
+  </div>
+  
   <div class="project-card">
     <a href="http://wupen.org/competitions/17?type=award" target="_blank">
       <img src="/images/portfolio/covid-survey.jpg" alt="COVID 2020">
