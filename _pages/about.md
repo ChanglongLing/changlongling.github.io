@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm **Changlong Ling**, currently a first-year PhD student in the Interdisciplinary PhD Program in Urban Design and Planning at the **_University of Washington, Seattle_**. I'm passionate about developing nonparametric statistical methods and artificial intelligence (AI) algorithms to advance urban and transportation technologies and public policy decision-making. I'm fortunate to be advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/). 
+Hi! I'm **Changlong Ling**, a first-year PhD student in the Interdisciplinary PhD Program in Urban Design and Planning at the **_University of Washington, Seattle_**, where I am fortunate to be advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/). My research interests center on developing artificial intelligence (AI) algorithms to advance urban and transportation technologies and inform public policy decision-making.
 
-Before my doctoral studies, I received my dual bachelor's degrees in Urban and Rural Planning and Economics from Wuhan University and master's degree in Urban and Regional Planning from Peking University in China. I accumulated over five years of research experience analyzing urban dynamics using multi-source spatial-temporal big data and machine learning techniques, as well as eight years of professional practice in urban and transportation planning and urban design. I studied in Wuhan and Shenzhen and led projects that were put into practice in Wuhan, Xuchang, Suizhou, Dongguan and Heyuan cities in China.
+Before starting my doctoral studies, I earned a master's degree in Urban and Regional Planning from Peking University, as well as dual bachelor's degrees in Urban and Rural Planning and Economics from Wuhan University. I have studied and worked in Wuhan and Shenzhen, and led several urban and transportation planning projects that were finally implemented in cities such as Wuhan, Xuchang, Suizhou, Dongguan, and Heyuan.
 
-I view planning as a shared action and enjoy the processes of planning urban and rural development, addressing real-world problems, and creating continuous values for marginalized populations and people full of longing. If you are interested in my research work, feel free to contact me :)
+I view planning as a shared endeavor. I enjoy working collaboratively to address real-world challenges in urban and rural development, and to create lasting value for marginalized communities and people who dream of a better future. If you are interested in my work, feel free to contact me :)
 
 Research Interets
 -----
-**Urban Artificial Intelligence (AI)**: My work aims at advancing responsible, explainable, and generative AI to better urban governance in smart cities
+**Urban Artificial Intelligence (AI)**: My work aims at developing responsible, explainable, and generative AI algorithms to better urban governance in smart cities
 - **AI for Digital Economy**: Digital Life, Work from Home, Urban Sustainability × Causal Machine Learning, (Spatial) Econometrics
-- **AI for Sustainable Transportation and Human Mobility**: Transportation Decarbonization, Autonomous Vehicles for Public Transit, & Human Mobility × Deep Learning
+- **AI for Sustainable Transportation and Human Mobility**: Autonomous Vehicles for Public Transit, Transportation Decarbonization, & Human Mobility × Deep Learning
 - **AI for Inclusive Urban and Regional Development**: Urban Planning, Regional Integration, & Inclusive Cities × Networks & Spatial Optimizations
 
 News
