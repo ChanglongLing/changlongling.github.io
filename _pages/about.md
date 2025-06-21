@@ -18,7 +18,7 @@ Research Interets
 **Urban Artificial Intelligence (AI)**: My work aims at developing responsible, explainable, and generative AI algorithms to better urban governance in smart cities
 - **AI for Digital Economy**: Digital Life, Work from Home, Urban Sustainability × Causal Machine Learning, (Spatial) Econometrics
 - **AI for Sustainable Transportation and Human Mobility**: Autonomous Vehicles for Public Transit, Transportation Decarbonization, & Human Mobility × Deep Learning
-- **AI for Inclusive Urban and Regional Development**: Urban Planning, Regional Integration, & Inclusive Cities × Networks & Spatial Optimizations
+- **AI for Inclusive Urban and Regional Development**: Urban Development, Regional Integration, & Inclusive Cities × Networks & Spatial Optimizations
 
 News
 -----
