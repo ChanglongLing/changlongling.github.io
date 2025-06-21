@@ -21,7 +21,7 @@ permalink: /portfolio/
   width: 100%;
   height: 180px;
   object-fit: cover;
-  border-radius: 8px;
+  border-radius: 10px;
   border: 1px solid #eee;
 }
 .project-title {
@@ -122,7 +122,7 @@ permalink: /portfolio/
       </span>
     </div>
     <div class="project-desc">
-      This project develops city-level strategic plans of comprehensive transportation systems, including roads, railway, airports, and water transportation.
+      This project develops city-level strategic plans of comprehensive transportation systems, including roads, railway, airports, and water transportation as a part of the city master planning.
     </div>
   </div>
 
