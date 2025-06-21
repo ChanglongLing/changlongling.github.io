@@ -83,7 +83,14 @@ permalink: /portfolio/
     <a href="https://doi.org/10.1038/s44333-024-00013-5" target="_blank">
       <img src="/images/portfolio/tce_tcf.jpg" alt="Transportation Emission">
     </a>
-    <div class="project-title">Transportation Carbon Emission & Footprint</div>
+    <div class="project-title" onclick="toggleDesc(this)">
+      Transportation Carbon Emission & Footprint
+      <span class="toggle-arrow" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 18 18">
+          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
+        </svg>
+      </span>
+    </div>
     <div class="project-desc">
       It's often confusing when using the interconnected concepts of transportation carbon emission and footprint. The study delves into a large number of literature and draw comparisons between them to clarify their natures.
     </div>
@@ -91,7 +98,14 @@ permalink: /portfolio/
 
   <div class="project-card">
     <img src="/images/portfolio/sdk_gd.jpg" alt="Regional Mobility">
-    <div class="project-title">Regional Mobility Networks</div>
+    <div class="project-title" onclick="toggleDesc(this)">
+      Regional Mobility Networks
+      <span class="toggle-arrow" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 18 18">
+          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
+        </svg>
+      </span>
+    </div>
     <div class="project-desc">
       How are cities funcationally connected? This study applies a mobility big data-driven approach and re-defines the metropolitan areas using location-based service big data.
     </div>
@@ -99,15 +113,29 @@ permalink: /portfolio/
 
   <div class="project-card">
     <img src="/images/portfolio/heyuan.jpg" alt="Transportation">
-    <div class="project-title">Transportation Planning</div>
+    <div class="project-title" onclick="toggleDesc(this)">
+      Transportation Planning
+      <span class="toggle-arrow" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 18 18">
+          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
+        </svg>
+      </span>
+    </div>
     <div class="project-desc">
-      This project proposes city-level strategic plans of transportation systems.
+      This project proposes city-level strategic plans of transportation systems, including roads, railway, airports, and water transportation.
     </div>
   </div>
-  
+
   <div class="project-card">
     <img src="/images/portfolio/jiangdong.jpg" alt="Traffic Safety">
-    <div class="project-title">Road Traffic Safety</div>
+    <div class="project-title" onclick="toggleDesc(this)">
+      Improving Traffic Safety
+      <span class="toggle-arrow" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 18 18">
+          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
+        </svg>
+      </span>
+    </div>
     <div class="project-desc">
       This project proposes road redevelopment and traffic light management strategies to address the problems faced by fast-urbanizing areas of Heyuan City. Local solutions have been developed and piloted to mitigate conflicts arising from land development, increased traffic demand, and the shortage of road space.
     </div>
@@ -117,7 +145,14 @@ permalink: /portfolio/
     <a href="http://wupen.org/competitions/17?type=award" target="_blank">
       <img src="/images/portfolio/covid-survey.jpg" alt="COVID 2020">
     </a>
-    <div class="project-title">WUPEN Survey 1st Prize</div>
+    <div class="project-title" onclick="toggleDesc(this)">
+      WUPEN Survey 1st Prize
+      <span class="toggle-arrow" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 18 18">
+          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
+        </svg>
+      </span>
+    </div>
     <div class="project-desc">
       Surveying twenty two COVID-19 patients in depth to explore what constrained their medical-service-seeking behavior and how the interaction worked in February to April 2020 in Wuhan, China.
     </div>
@@ -127,7 +162,14 @@ permalink: /portfolio/
     <a href="http://www.yuanyebei.com/index.php?m=YuanYeBei&a=index_show&contentid=276278&r=all" target="_blank">
       <img src="/images/portfolio/yuanye20.jpg" alt="Yuanye Cup 2020">
     </a>
-    <div class="project-title">YUANYE Cup 2nd Prize</div>
+    <div class="project-title" onclick="toggleDesc(this)">
+      YUANYE Cup 2nd Prize
+      <span class="toggle-arrow" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 18 18">
+          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
+        </svg>
+      </span>
+    </div>
     <div class="project-desc">
       Redeveloping old towns for living with animals -- "The cranes are crying in the marshes, and their voices are heard in the wilds", a wisdom from ancient Chinese literature <i>Xiaoya, Shijing</i>. We use the modern Community of Life theory to implement this vision and organize the environmental planning and urban redevelopment.
     </div>
@@ -135,7 +177,14 @@ permalink: /portfolio/
 
   <div class="project-card">
     <img src="/images/portfolio/comm_cent.jpg" alt="Community Center">
-    <div class="project-title">Community Center Design</div>
+    <div class="project-title" onclick="toggleDesc(this)">
+      Community Center Design
+      <span class="toggle-arrow" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 18 18">
+          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
+        </svg>
+      </span>
+    </div>
     <div class="project-desc">
       Planning for livable communities with strong cultural symbols. Combining green building technologies with site-dependent spatial forms, the community center aims to reshape activities within the space and beyond.
     </div>
