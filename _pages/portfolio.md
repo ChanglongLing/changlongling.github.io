@@ -67,7 +67,7 @@ permalink: /portfolio/
 
   <div class="project-card">
     <img src="/images/portfolio/heyuan.jpg" alt="Transportation">
-    <div class="project-title">Transportation Systems</div>
+    <div class="project-title">Transportation Planning</div>
     <div class="project-desc">
       This project proposes city-level strategic plans of transportation systems.
     </div>
