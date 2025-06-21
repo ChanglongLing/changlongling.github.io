@@ -14,6 +14,8 @@ permalink: /portfolio/
   width: 300px;
   margin-bottom: 2em;
   text-align: center;
+  position: relative;
+  box-sizing: border-box;
 }
 .project-card img {
   width: 100%;
@@ -27,13 +29,36 @@ permalink: /portfolio/
   margin-top: 0.7em;
   font-size: 1.1em;
   letter-spacing: 0.04em;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+}
+.toggle-arrow {
+  font-size: 1.2em;
+  margin-left: 0.4em;
+  transition: transform 0.2s;
 }
 .project-desc {
   color: #666;
   margin-top: 0.5em;
   font-size: 0.98em;
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.25s, opacity 0.18s;
+}
+.project-desc.open {
+  max-height: 240px;
+  opacity: 1;
+  margin-bottom: 0.6em;
+}
+.project-title .toggle-arrow.open {
+  transform: rotate(90deg);
 }
 </style>
+
 
 <div class="project-grid">
 
@@ -41,7 +66,10 @@ permalink: /portfolio/
     <a href="https://doi.org/10.1016/j.jtrangeo.2024.103820" target="_blank">
       <img src="/images/portfolio/exce_comm.jpg" alt="Excess Commuting">
     </a>
-    <div class="project-title">Disaggregated Excess Commuting</div>
+    <div class="project-title" onclick="toggleDesc(this)">
+      Disaggregated Excess Commuting
+      <span class="toggle-arrow">&#9654;</span>
+    </div>
     <div class="project-desc">
       How much can cities reduce commutes by adopting more efficient layouts? This study developed a disaggregated excess commuting framework to measure the efficiencies by industry sectors using commute location-based service big data.
     </div>
@@ -110,3 +138,14 @@ permalink: /portfolio/
   </div>
 
 </div>
+
+
+<script>
+function toggleDesc(titleElem) {
+  const card = titleElem.parentElement;
+  const desc = card.querySelector('.project-desc');
+  const arrow = titleElem.querySelector('.toggle-arrow');
+  desc.classList.toggle('open');
+  arrow.classList.toggle('open');
+}
+</script>
