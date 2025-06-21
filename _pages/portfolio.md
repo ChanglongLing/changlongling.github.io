@@ -66,6 +66,14 @@ permalink: /portfolio/
   </div>
 
   <div class="project-card">
+    <img src="/images/portfolio/heyuan.jpg" alt="Transportation">
+    <div class="project-title">Transportation Systems</div>
+    <div class="project-desc">
+      This project proposes city-level strategic plans of transportation systems.
+    </div>
+  </div>
+  
+  <div class="project-card">
     <img src="/images/portfolio/jiangdong.jpg" alt="Traffic Safety">
     <div class="project-title">Road Traffic Safety</div>
     <div class="project-desc">
