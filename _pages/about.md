@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm **Changlong Ling**, a first-year PhD student in the Interdisciplinary PhD Program in Urban Design and Planning at the **_University of Washington, Seattle_**, where I am fortunate to be advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/). My research interests center on developing artificial intelligence (AI) algorithms to advance urban and transportation technologies and inform public policy decision-making.
+Hi! I'm **Changlong Ling**, a first-year PhD student in the Interdisciplinary PhD Program in Urban Design and Planning at the **_University of Washington, Seattle_**, where I am fortunate to be advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/). My research interests center on developing urban artificial intelligence (AI) algorithms to advance urban and transportation technologies and inform public policy decision-making.
 
 Before starting my doctoral studies, I earned a master's degree in Urban and Regional Planning from Peking University, as well as dual bachelor's degrees in Urban and Rural Planning and Economics from Wuhan University. I have studied and worked in Wuhan and Shenzhen, and led several urban and transportation planning projects that were finally implemented in cities such as Wuhan, Xuchang, Suizhou, Dongguan, and Heyuan.
 
