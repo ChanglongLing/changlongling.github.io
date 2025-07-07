@@ -23,7 +23,7 @@ Selected Honors
 * Hubert M. Blalock Fellowships (2024), University of Washington (~5%)
 * Excellent Graduates (2024), Peking University
 * Excellent Graduates (2021), Wuhan University
-* Lei Jun Scholarships (2020), the highest-level scholarship in Wuhan University
+* Lei Jun Scholarships (2020), the highest in Wuhan University
 * National Scholarships (2019), Ministry of Education, P.R. China (0.5%)
 
 Skills
