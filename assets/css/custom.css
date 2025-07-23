@@ -1,60 +1,44 @@
-/* ===== 默认浅色模式（light mode） ===== */
-body {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 300;
-  color: #333;
-  background-color: #ffffff;
-  font-size: 17px;
-  line-height: 1.75;
-  letter-spacing: 0.015em;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 700;
-  color: #000;
-  letter-spacing: 0.02em;
-}
-
-a {
-  color: #0057b7;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-
-/* ===== 深色模式（Dark Mode）适配 ===== */
 @media (prefers-color-scheme: dark) {
-  body {
-    color: #eeeeee;                 /* 更亮的字体色 */
-    background-color: #121212;      /* 深灰底 */
+  html[data-theme="dark"] body {
+    color: var(--global-text-color);
+    background-color: var(--global-bg-color);
   }
 
-  h1, h2, h3, h4, h5, h6 {
-    color: #ffffff;
+  html[data-theme="dark"] h1,
+  html[data-theme="dark"] h2,
+  html[data-theme="dark"] h3,
+  html[data-theme="dark"] h4,
+  html[data-theme="dark"] h5,
+  html[data-theme="dark"] h6 {
+    color: var(--global-text-color);
   }
 
-  a {
-    color: #6bb9ff;                 /* 夜间模式下的浅蓝色链接 */
+  html[data-theme="dark"] a {
+    color: var(--global-link-color);
   }
 
-  code, pre {
-    background-color: #1e1e1e;
-    color: #ffcc99;
+  html[data-theme="dark"] a:hover {
+    color: var(--global-link-color-hover);
   }
 
-  blockquote {
-    border-left: 4px solid #555;
-    background-color: #1a1a1a;
-    color: #ccc;
+  html[data-theme="dark"] code,
+  html[data-theme="dark"] pre {
+    background-color: var(--global-code-background-color);
+    color: var(--global-code-text-color);
   }
 
-  th, td {
-    border-color: #444;
+  html[data-theme="dark"] blockquote {
+    border-left: 4px solid var(--global-border-color);
+    background-color: var(--global-footer-bg-color);
+    color: var(--global-text-color-light);
   }
 
-  th {
-    background-color: #222;
+  html[data-theme="dark"] th,
+  html[data-theme="dark"] td {
+    border-color: var(--global-border-color);
+  }
+
+  html[data-theme="dark"] th {
+    background-color: var(--global-thead-color);
   }
 }
