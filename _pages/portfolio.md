@@ -10,52 +10,78 @@ permalink: /portfolio/
   gap: 2em;
   justify-content: center;
   align-items: flex-start;
+  margin-top: 1em;
 }
+
 .project-card {
   width: 300px;
   text-align: center;
   position: relative;
   box-sizing: border-box;
+  font-family: var(--global-font-family, 'Raleway', sans-serif);
+  color: var(--global-text-color, #333);
+  background-color: transparent;
+  border-radius: 10px;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
+.project-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+html[data-theme="dark"] .project-card:hover {
+  box-shadow: 0 4px 14px rgba(255, 255, 255, 0.05);
+}
+
 .project-card img {
   width: 100%;
   height: 180px;
   object-fit: cover;
   border-radius: 10px;
-  border: 1px solid #eee;
+  border: 1px solid #ddd;
 }
+
 .project-title {
-  font-weight: bold;
-  margin-top: 0.5em;
-  font-size: 1em;
-  letter-spacing: 0.04em;
+  font-weight: 600;
+  margin-top: 0.6em;
+  font-size: 1.1rem;
+  letter-spacing: 0.02em;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
   user-select: none;
+  color: var(--global-text-color, #222);
 }
+html[data-theme="dark"] .project-title {
+  color: var(--global-text-color, #eee);
+}
+
 .toggle-arrow {
   font-size: 1em;
   margin-left: 0.4em;
   transition: transform 0.2s;
 }
+.project-title .toggle-arrow.open {
+  transform: rotate(90deg);
+}
+
 .project-desc {
-  color: #666;
+  color: var(--global-text-color-light, #666);
   margin-top: 0.3em;
-  font-size: 0.9em;
+  font-size: 0.95rem;
   max-height: 0;
   overflow: hidden;
   opacity: 0;
+  line-height: 1.6;
   transition: max-height 0.25s, opacity 0.18s;
 }
 .project-desc.open {
-  max-height: 240px;
+  max-height: 260px;
   opacity: 1;
-  margin-bottom: 0.4em;
+  margin-bottom: 0.5em;
 }
-.project-title .toggle-arrow.open {
-  transform: rotate(90deg);
+html[data-theme="dark"] .project-desc {
+  color: var(--global-text-color-light, #bbb);
 }
 </style>
 
