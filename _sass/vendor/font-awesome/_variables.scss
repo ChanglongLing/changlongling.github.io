@@ -24,6 +24,9 @@ $fa-size-scale-lg       : 20 !default;
 $fa-size-scale-xl       : 24 !default;
 $fa-size-scale-2xl      : 32 !default;
 
+$global-font-family: 'Raleway', 'Roboto', sans-serif;
+$header-font-family: 'Raleway', sans-serif;
+
 $fa-sizes: (
   "2xs"                 : $fa-size-scale-2xs,
   "xs"                  : $fa-size-scale-xs,
