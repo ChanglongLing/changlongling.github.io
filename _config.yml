@@ -351,10 +351,3 @@ compress_html:
   ignore:
     envs: development
 
-# activate custom.css
-custom_css: assets/css/custom.css
-
-# activate custom.html
-include:
-  - _includes/head/custom.html
-
