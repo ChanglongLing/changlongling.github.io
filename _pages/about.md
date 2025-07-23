@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm **Changlong Ling**, a first-year PhD student in the Interdisciplinary PhD Program in Urban Design and Planning at the **_University of Washington, Seattle_**, where I am fortunate to be advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/). I'm broadly interested in developing artificial intelligence (AI) algorithms and statistical/data science methods to support the integration of automated vehicles into urban mobility systems. My research seeks to enhance the economic effectiveness, systematic smartness, and environmental sustainability of future transportation, ultimately informing more equitable public policies.
+Hi! I'm **Changlong Ling**, a first-year PhD student in the Interdisciplinary PhD Program in Urban Design and Planning at the **_University of Washington, Seattle_**, advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/). I'm interested in developing artificial intelligence (AI) algorithms and statistical/data science methods to support the integration of automated vehicles and digital technologies into urban mobility systems. My research seeks to enhance the economic effectiveness, systematic smartness, and environmental sustainability of future transportation, ultimately informing more equitable public policies.
 
-I hold a master's degree in Urban Planning from Peking University, as well as dual bachelor's degrees in Economics and Urban Planning from Wuhan University. I have led several urban and transportation planning projects that have been implemented in cities such as Wuhan, Xuchang, Suizhou, Dongguan, and Heyuan.
+Before coming to UW, I earned a master's degree in Urban Planning from Peking University, as well as dual bachelor's degrees in Economics and Urban Planning from Wuhan University. I have led several urban and transportation planning projects that have been implemented in cities such as Wuhan, Xuchang, Suizhou, Dongguan, and Heyuan.
 
-I view planning as a shared endeavor. I enjoy working collaboratively to address real-world challenges in transportation and urban development, and to create lasting value for marginalized communities and those who dream of a smarter city. If you are interested in my work, feel free to reach out :)
+I view planning as a shared endeavor. I enjoy working collaboratively to address real-world challenges in urban and transportation development, and to create lasting value for marginalized communities and those who dream of a smarter city. If you are interested in my work, feel free to reach out :)
 
 Research Interests
 -----
