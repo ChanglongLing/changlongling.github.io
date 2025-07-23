@@ -11,7 +11,7 @@ Hi! I'm **Changlong Ling**, a first-year PhD student in the Interdisciplinary Ph
 
 I hold a master's degree in Urban Planning from Peking University, as well as dual bachelor's degrees in Economics and Urban Planning from Wuhan University. I have led several urban and transportation planning projects that were finally implemented in cities such as Wuhan, Xuchang, Suizhou, Dongguan, and Heyuan.
 
-I view planning as a shared endeavor. I enjoy working collaboratively to address real-world challenges in urban and regional development, and to create lasting values for marginalized communities and people who dream of a smarter future. If you are interested in my work, feel free to contact me :)
+I view planning as a shared endeavor. I enjoy working collaboratively to address real-world challenges in transportation and urban development, and to create lasting values for marginalized communities and people who dream of a smarter city. If you are interested in my work, feel free to contact me :)
 
 Research Interets
 -----
