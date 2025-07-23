@@ -15,8 +15,7 @@ Education
 -----
 * Interdisciplinary Ph.D. in Urban Design and Planning, University of Washington, 2024-present
 * M.S. in Urban Planning, Peking University, 2024
-* B.Eng. in Urban Planning, Wuhan University, 2021
-* B.A. in Economics, Wuhan University, 2021
+* B.A. in Economics, B.Eng. in Urban Planning, Wuhan University, 2021
 
 Selected Honors
 -----
@@ -25,8 +24,4 @@ Selected Honors
 * Excellent Graduates (2021), Wuhan University
 * Lei Jun Scholarships (2020), the highest in Wuhan University
 * National Scholarships (2019), Ministry of Education, P.R. China (0.5%)
-
-Skills
------
-* Machine Learning, (Spatial) Econometrics, Spatial & Network Analysis, and Urban Planning & Design
 
