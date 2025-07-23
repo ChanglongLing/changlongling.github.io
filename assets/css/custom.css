@@ -1,67 +1,60 @@
-/* ===== Global Font ===== */
+/* ===== 默认浅色模式（light mode） ===== */
 body {
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
-  color: #333; /* 深灰而非淡灰 */
+  color: #333;
+  background-color: #ffffff;
   font-size: 17px;
   line-height: 1.75;
   letter-spacing: 0.015em;
-  background-color: #ffffff;
 }
 
-/* ===== Header Styling ===== */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
-  color: #000000;
-  margin-top: 1.4em;
-  margin-bottom: 0.5em;
+  color: #000;
   letter-spacing: 0.02em;
 }
 
-/* ===== Paragraphs and Lists ===== */
-p, li {
-  font-weight: 300;
-  color: #333;
-}
-
-/* ===== Links ===== */
 a {
-  color: #0057b7; /* 蓝紫调，较现代 */
+  color: #0057b7;
   text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
 }
 
-/* ===== Code Blocks and Inline Code ===== */
-code, pre {
-  font-family: 'Courier New', Courier, monospace;
-  background-color: #f4f4f4;
-  color: #c7254e;
-  padding: 0.2em 0.4em;
-  border-radius: 4px;
-}
+/* ===== 深色模式（Dark Mode）适配 ===== */
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #eeeeee;                 /* 更亮的字体色 */
+    background-color: #121212;      /* 深灰底 */
+  }
 
-/* ===== Blockquotes ===== */
-blockquote {
-  border-left: 4px solid #ccc;
-  padding-left: 1em;
-  color: #555;
-  font-style: italic;
-  background-color: #f9f9f9;
-}
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+  }
 
-/* ===== Tables ===== */
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-th, td {
-  border: 1px solid #ddd;
-  padding: 0.6em;
-}
-th {
-  background-color: #f2f2f2;
-  font-weight: 600;
+  a {
+    color: #6bb9ff;                 /* 夜间模式下的浅蓝色链接 */
+  }
+
+  code, pre {
+    background-color: #1e1e1e;
+    color: #ffcc99;
+  }
+
+  blockquote {
+    border-left: 4px solid #555;
+    background-color: #1a1a1a;
+    color: #ccc;
+  }
+
+  th, td {
+    border-color: #444;
+  }
+
+  th {
+    background-color: #222;
+  }
 }
