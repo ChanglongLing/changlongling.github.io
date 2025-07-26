@@ -26,4 +26,8 @@ News
 
 
 ---
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE"></script>
+<div style="width: 300px; height: 300px; margin-bottom: 2rem;">
+  <script type="text/javascript" id="clstr_globe" 
+          src="//clustrmaps.com/globe.js?d=UdCozOYu7EbbS8Ti2_v4yGuIQTDSrKEDNVFe-OA6yVE">
+  </script>
+</div>
