@@ -26,21 +26,24 @@ News
 
 
 ---
-<!-- ClustrMaps 访客热力图设置说明：
-  cl   = 点边框颜色（此处为深灰色 #444444）
-  w    = 地图宽度（320px，可调）
-  t    = 地图样式类型（b = 黑白背景, n = 彩色）
-  d    = 地图唯一 ID（你的账户专属，不要改）
-  co   = 地图背景色（#ffffff 白色）
-  ct   = 国家边界线颜色（#bbbbbb 浅灰）
-  cmo  = 热点（高频访问者）颜色（#4287f5 蓝色）
-  cmn  = 普通访问者颜色（#fa1e4e 红色）
--->
+<!-- 外层 div 控制居中 -->
+<div style="display: flex; justify-content: center; margin-top: 1rem; margin-bottom: 2rem;">
+  
+  <!-- 内层 div 控制地图宽度 -->
+  <div style="width: 480px;">
+    
+    <!-- 地图脚本加载 -->
+    <script type="text/javascript" id="clustrmaps"
+      src="//clustrmaps.com/map_v2.js?
+        d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE  <!-- 你的唯一 ID，不要修改 -->
+        &cl=444444    <!-- 点边框颜色：深灰 -->
+        &w=480        <!-- 地图宽度：480px -->
+        &t=b          <!-- 地图风格：黑白背景 -->
+        &co=ffffff    <!-- 地图背景色：白色 -->
+        &ct=bbbbbb    <!-- 国家边界线颜色：浅灰 -->
+        &cmo=4287f5   <!-- 热点颜色（高频访问）：蓝色 -->
+        &cmn=fa1e4e"> <!-- 普通访问点颜色：红色 -->
+    </script>
 
-<div style="width: 320px;">
-  <script type="text/javascript" id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE&
-    cl=444444&w=320&t=b&co=ffffff&ct=bbbbbb&cmo=4287f5&cmn=fa1e4e">
-  </script>
+  </div>
 </div>
-
