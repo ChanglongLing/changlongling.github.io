@@ -39,7 +39,8 @@ News
 
 <div style="width: 320px;">
   <script type="text/javascript" id="clustrmaps"
-    src="//cdn.clustrmaps.com/map_v2.js?cl=444444&w=320&t=b&d=zU9DbdqNwD8PS5IHucVNU8GV_lJolPyn6nhjUQYN5FI&co=ffffff&ct=bbbbbb&cmo=4287f5&cmn=fa1e4e">
+    src="//clustrmaps.com/map_v2.js?d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE&
+    cl=444444&w=320&t=b&co=ffffff&ct=bbbbbb&cmo=4287f5&cmn=fa1e4e">
   </script>
 </div>
 
