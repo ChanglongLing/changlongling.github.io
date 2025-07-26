@@ -27,6 +27,6 @@ News
 ---
 <script type='text/javascript' id='clustrmaps' src='//clustrmaps.com/map_v2.js?
   d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE
-  &w=288&t=n
+  &w=400&t=n
   &co=ffffff&ct=808080
   &cmo=4A8BD2&cmn=ff5353&cl=848383'></script>
