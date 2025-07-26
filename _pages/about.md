@@ -25,8 +25,13 @@ News
 - **[Jun 2024]** Graduated with distinction from Peking University!
 
 ---
-<script type='text/javascript' id='clustrmaps' src='//clustrmaps.com/map_v2.js?
-  d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE
-  &w=400&t=n
-  &co=ffffff&ct=808080
-  &cmo=4A8BD2&cmn=ff5353&cl=848383'></script>
+<div style="display: flex; justify-content: center; margin: 2rem 0;">
+  <style>
+    .clustrmaps-map-count {
+      display: none !important;
+    }
+  </style>
+  <script type="text/javascript" id="clustrmaps"
+    src="//clustrmaps.com/map_v2.js?d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE&w=400&t=n&co=ffffff&ct=808080&cmo=4A8BD2&cmn=ff5353&cl=848383">
+  </script>
+</div>
