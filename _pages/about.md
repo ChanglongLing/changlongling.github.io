@@ -25,33 +25,5 @@ News
 - **[Jun 2024]** Graduated with distinction from Peking University!
 
 ---
-
-<h2>📍 当前访客大致位置</h2>
-<div id="map" style="height: 400px; margin-bottom: 2rem;"></div>
-
-<!-- Leaflet 地图样式和脚本 -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
-
-<script>
-// 获取 IP 位置
-fetch("https://ipapi.co/json/")
-  .then(response => response.json())
-  .then(data => {
-    const lat = data.latitude;
-    const lon = data.longitude;
-    const city = data.city;
-    const country = data.country_name;
-
-    // 初始化地图
-    const map = L.map('map').setView([lat, lon], 10);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap contributors'
-    }).addTo(map);
-
-    // 添加 marker
-    L.marker([lat, lon]).addTo(map)
-      .bindPopup(`你大致位于：${city}, ${country}`)
-      .openPopup();
-  });
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE&cl=ffffff&w=a"></script>
 </script>
