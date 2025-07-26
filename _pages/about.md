@@ -24,6 +24,6 @@ News
 - **[Sep 2024]** New journey, PhD life, starts at the University of Washington!
 - **[Jun 2024]** Graduated with distinction from Peking University!
 
+
 ---
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE&cl=ffffff&w=a"></script>
-</script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE"></script>
