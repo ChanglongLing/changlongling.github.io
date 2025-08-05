@@ -87,7 +87,24 @@ html[data-theme="dark"] .project-desc {
 
 
 <div class="project-grid">
-
+  
+  <div class="project-card">
+    <a href="https://doi.org/10.1016/j.apgeog.2025.103737" target="_blank">
+      <img src="/images/portfolio/traffic_safety.jpg" alt="Traffic Safety">
+    </a>
+    <div class="project-title" onclick="toggleDesc(this)">
+      Traffic Safety Heterogeneity
+      <span class="toggle-arrow" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 18 18">
+          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
+        </svg>
+      </span>
+    </div>
+    <div class="project-desc">
+      Is traffic safety risk uniformly distributed? If not, how can we model that? This study examines how street network and land use characteristics affect road traffic crash density using a nonlinear, population-heterogeneous framework.
+    </div>
+  </div>
+  
   <div class="project-card">
     <a href="https://doi.org/10.1016/j.jtrangeo.2024.103820" target="_blank">
       <img src="/images/portfolio/exce_comm.jpg" alt="Excess Commuting">
