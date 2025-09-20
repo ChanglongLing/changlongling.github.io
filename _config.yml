@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Changlong Ling"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Changlong Ling"
-description              : &description "PhD Student in Urban AI & Transportation at UW"
+description              : &description "PhD Student in AI & Urban Transportation at UW"
 url                      : https://changlongling.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "changlongling.github.io"
