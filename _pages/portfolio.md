@@ -87,6 +87,23 @@ html[data-theme="dark"] .project-desc {
 
 
 <div class="project-grid">
+
+  <div class="project-card">
+    <a href="https://doi.org/10.1016/j.tra.2025.104672" target="_blank">
+      <img src="/images/portfolio/itod.jpg" alt="Inclusive TOD">
+    </a>
+    <div class="project-title" onclick="toggleDesc(this)">
+      Inclusive Transit-Oriented Development
+      <span class="toggle-arrow" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 18 18">
+          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
+        </svg>
+      </span>
+    </div>
+    <div class="project-desc">
+      Building affordable and inclusive cities has long been a shared goal, yet reality often falls short. This project integrates housing affordability into transit-oriented development evaluation, uncovering where TOD sites underperform in inclusivity and offering practical guidance for aligning transit investment with affordable housing provision.
+    </div>
+  </div>
   
   <div class="project-card">
     <a href="https://doi.org/10.1016/j.apgeog.2025.103737" target="_blank">
