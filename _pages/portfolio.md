@@ -101,7 +101,7 @@ html[data-theme="dark"] .project-desc {
       </span>
     </div>
     <div class="project-desc">
-      Building affordable and inclusive cities has long been a shared goal, yet reality often falls short. This project integrates housing affordability into transit-oriented development evaluation, uncovering where TOD sites underperform in inclusivity and offering practical guidance for aligning transit investment with affordable housing provision.
+      Building affordable and inclusive cities has long been a shared goal, yet reality often falls short. This project integrates housing affordability into transit-oriented development evaluation, uncovering where TOD sites underperform in inclusivity and offering practical guidance.
     </div>
   </div>
   
