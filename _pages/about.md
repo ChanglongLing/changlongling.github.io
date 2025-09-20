@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 Hi! I'm **Changlong Ling**.
 -----
 I am in my second year of the [Interdisciplinary Ph.D. Program in Urban Design and Planning](https://sites.uw.edu/urbdpphd/) and doing my [M.S. in Statistics](https://stat.uw.edu/) at the **_University of Washington_**, where I am advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/). I earned a master's degree in Urban Planning from Peking University and dual bachelor's degrees in Economics and Urban Planning from Wuhan University.
@@ -36,6 +37,6 @@ News
     }
   </style>
   <script type="text/javascript" id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE&w=800&t=n&co=ffffff&ct=808080&cmo=4A8BD2&cmn=ff5353&cl=848383">
+    src="//clustrmaps.com/map_v2.js?d=UdCozOYu7EbbS8Ti2_v4yGuIQtDSrKEDNVFe-OA6yVE&w=600&t=n&co=ffffff&ct=808080&cmo=4A8BD2&cmn=ff5353&cl=848383">
   </script>
 </div>
