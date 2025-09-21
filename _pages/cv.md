@@ -14,8 +14,10 @@ redirect_from:
 Education
 -----
 * Interdisciplinary Ph.D. in Urban Design and Planning, University of Washington, 2024-present
+* M.S. in Statistics (Machine Learning and Big Data Track), 2025-present
 * M.S. in Urban Planning, Peking University, 2024
-* B.A. in Economics, B.Eng. in Urban Planning, Wuhan University, 2021
+* B.A. in Economics, Wuhan University, 2021
+* B.Eng. in Urban Planning, Wuhan University, 2021
 
 Selected Honors
 -----
