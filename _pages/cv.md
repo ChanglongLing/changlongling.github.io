@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<i class="fa fa-download"></i> Download my [CV (PDF)](/files/Changlong_Ling_CV.pdf)
+<i class="fa fa-download"></i> Download my [CV (PDF)](/files/CV_ChanglongLing.pdf)
 
 Education
 -----
