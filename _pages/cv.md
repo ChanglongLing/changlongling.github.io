@@ -21,6 +21,7 @@ Education
 
 Selected Honors
 -----
+* Nomination Award for the 15th Qian Xuesen (钱学森) Urban Studies Gold Award
 * Hubert M. Blalock Fellowships (2024), University of Washington (~5%)
 * Excellent Graduates (2024), Peking University
 * Excellent Graduates (2021), Wuhan University
