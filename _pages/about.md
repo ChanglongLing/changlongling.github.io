@@ -22,6 +22,7 @@ I view planning as a collaborative endeavor and enjoy working with others to tac
 
 News
 -----
+- **[Sep 2025]** Awarded the [Nomination Award for the 15th Qian Xuesen (钱学森) Urban Studies Gold Award](https://mp.weixin.qq.com/s/LSjj_qdIA4J-4uRUYNCKvg)!
 - **[Sep 2025]** New Paper Alert: Transportation Research Part A: Policy & Practice.
 - **[Aug 2025]** New Paper Alert: Applied Geography.
 - **[Jul 2025]** Invited to give a talk at City+, Zhejiang University.
