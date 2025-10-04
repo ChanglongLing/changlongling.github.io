@@ -110,7 +110,7 @@ html[data-theme="dark"] .project-desc {
       <img src="/images/portfolio/traffic_safety.jpg" alt="Traffic Safety">
     </a>
     <div class="project-title" onclick="toggleDesc(this)">
-      Traffic Safety Heterogeneity
+      Equitable Vision Zero
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
@@ -127,7 +127,7 @@ html[data-theme="dark"] .project-desc {
       <img src="/images/portfolio/exce_comm.jpg" alt="Excess Commuting">
     </a>
     <div class="project-title" onclick="toggleDesc(this)">
-      Disaggregated Excess Commuting
+      Smart and Just Urban Systems
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
@@ -144,7 +144,7 @@ html[data-theme="dark"] .project-desc {
       <img src="/images/portfolio/tce_tcf.jpg" alt="Transportation Emission">
     </a>
     <div class="project-title" onclick="toggleDesc(this)">
-      Transportation Carbon Emission & Footprint
+      Net-Zero Transportation
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
@@ -159,7 +159,7 @@ html[data-theme="dark"] .project-desc {
   <div class="project-card">
     <img src="/images/portfolio/sdk_gd.jpg" alt="Regional Mobility">
     <div class="project-title" onclick="toggleDesc(this)">
-      Regional Mobility Networks
+      Innovation via Connected Regions
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
@@ -174,7 +174,7 @@ html[data-theme="dark"] .project-desc {
   <div class="project-card">
     <img src="/images/portfolio/heyuan.jpg" alt="Transportation">
     <div class="project-title" onclick="toggleDesc(this)">
-      Transportation Planning
+      Multimodal Transportation System
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
@@ -182,14 +182,14 @@ html[data-theme="dark"] .project-desc {
       </span>
     </div>
     <div class="project-desc">
-      This project develops city-level strategic plans of comprehensive transportation systems, including roads, railway, airports, and water transportation as a part of the city master planning.
+      This transportation planning project develops city-level strategic plans of comprehensive transportation systems, including roads, railway, airports, and water transportation as a part of the city master planning.
     </div>
   </div>
 
   <div class="project-card">
     <img src="/images/portfolio/jiangdong.jpg" alt="Traffic Safety">
     <div class="project-title" onclick="toggleDesc(this)">
-      Improving Traffic Safety
+      Safer Design, Safer Traffic
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
@@ -206,7 +206,7 @@ html[data-theme="dark"] .project-desc {
       <img src="/images/portfolio/covid-survey.jpg" alt="COVID 2020">
     </a>
     <div class="project-title" onclick="toggleDesc(this)">
-      WUPEN Survey 1st Prize
+      Healthier, Resilient Cities against Disasters
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
@@ -214,7 +214,7 @@ html[data-theme="dark"] .project-desc {
       </span>
     </div>
     <div class="project-desc">
-      Surveying twenty two COVID-19 patients in depth to explore what constrained their medical-service-seeking behavior and how the interaction worked in February to April 2020 in Wuhan, China.
+      Winning WUPEN Survey 1st Prize: Surveying twenty two COVID-19 patients in depth to explore what constrained their medical-service-seeking behavior and how the interaction worked in February to April 2020 in Wuhan, China.
     </div>
   </div>
 
@@ -223,7 +223,7 @@ html[data-theme="dark"] .project-desc {
       <img src="/images/portfolio/yuanye20.jpg" alt="Yuanye Cup 2020">
     </a>
     <div class="project-title" onclick="toggleDesc(this)">
-      YUANYE Cup 2nd Prize
+      Community of Life w/ Nature
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
@@ -231,14 +231,14 @@ html[data-theme="dark"] .project-desc {
       </span>
     </div>
     <div class="project-desc">
-      Redeveloping old towns for living with animals -- "The cranes are crying in the marshes, and their voices are heard in the wilds", a wisdom from ancient Chinese literature <i>Xiaoya, Shijing</i>. We use the modern Community of Life theory to implement this vision and organize the environmental planning and urban redevelopment.
+      Wining YUANYE Cup 2nd Prize 2020: Regenerating old towns for living with nature -- "The cranes are crying in the marshes, and their voices are heard in the wilds", a wisdom from ancient Chinese literature <i>Xiaoya, Shijing</i>. We use the modern Community of Life theory to implement this vision and organize the environmental planning and urban redevelopment.
     </div>
   </div>
 
   <div class="project-card">
     <img src="/images/portfolio/comm_cent.jpg" alt="Community Center">
     <div class="project-title" onclick="toggleDesc(this)">
-      Community Center Design
+      Eco-friendly Community
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
@@ -246,7 +246,7 @@ html[data-theme="dark"] .project-desc {
       </span>
     </div>
     <div class="project-desc">
-      Planning for livable communities with strong cultural symbols. Combining green building technologies with site-dependent spatial forms, the community center aims to reshape activities within the space and beyond.
+      Designing for eco-friendly communities with strong cultural symbols. Combining green building technologies with site-dependent spatial forms, the community center aims to reshape activities within the space and beyond under nature-based cycles of energy and materials.
     </div>
   </div>
 
