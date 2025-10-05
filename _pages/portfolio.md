@@ -70,15 +70,19 @@ html[data-theme="dark"] .project-title {
   margin-top: 0.3em;
   font-size: 0.95rem;
   max-height: 0;
-  overflow: hidden;
+  overflow: hidden;            /* 关闭时隐藏 */
   opacity: 0;
   line-height: 1.6;
   transition: max-height 0.25s, opacity 0.18s;
 }
+
 .project-desc.open {
-  max-height: 260px;
+  max-height: 260px;           /* 可按需调高，比如 320 或 360 */
+  overflow-y: auto;            /* 关键：打开时允许纵向滚动 */
+  -webkit-overflow-scrolling: touch;
   opacity: 1;
   margin-bottom: 0.5em;
+  mask-image: linear-gradient(to bottom, black 85%, rgba(0,0,0,0.2) 100%);
 }
 html[data-theme="dark"] .project-desc {
   color: var(--global-text-color-light, #bbb);
