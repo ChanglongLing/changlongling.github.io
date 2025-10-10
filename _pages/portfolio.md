@@ -125,6 +125,23 @@ html[data-theme="dark"] .project-desc {
       Is traffic safety risk uniformly distributed? If not, how can we model that? This study examines how street network and land use characteristics affect road traffic crash density using a nonlinear, population-heterogeneous framework.
     </div>
   </div>
+
+  <div class="project-card">
+    <a href="https://doi.org/10.1038/s44333-024-00013-5" target="_blank">
+      <img src="/images/portfolio/tce_tcf.jpg" alt="Transportation Emission">
+    </a>
+    <div class="project-title" onclick="toggleDesc(this)">
+      Transportation Decarbonization
+      <span class="toggle-arrow" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 18 18">
+          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
+        </svg>
+      </span>
+    </div>
+    <div class="project-desc">
+      It's often confusing when using the interconnected concepts of transportation carbon emission and footprint. The study delves into a large number of literature and draw comparisons between them to clarify their natures.
+    </div>
+  </div>
   
   <div class="project-card">
     <a href="https://doi.org/10.1016/j.jtrangeo.2024.103820" target="_blank">
@@ -140,23 +157,6 @@ html[data-theme="dark"] .project-desc {
     </div>
     <div class="project-desc">
       How much can cities reduce commutes by adopting more efficient layouts? This study developed a disaggregated excess commuting framework to measure the efficiencies by industry sectors using commute location-based service big data.
-    </div>
-  </div>
-
-  <div class="project-card">
-    <a href="https://doi.org/10.1038/s44333-024-00013-5" target="_blank">
-      <img src="/images/portfolio/tce_tcf.jpg" alt="Transportation Emission">
-    </a>
-    <div class="project-title" onclick="toggleDesc(this)">
-      Net-Zero Transportation
-      <span class="toggle-arrow" aria-hidden="true">
-        <svg width="18" height="18" viewBox="0 0 18 18">
-          <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
-        </svg>
-      </span>
-    </div>
-    <div class="project-desc">
-      It's often confusing when using the interconnected concepts of transportation carbon emission and footprint. The study delves into a large number of literature and draw comparisons between them to clarify their natures.
     </div>
   </div>
 
@@ -193,7 +193,7 @@ html[data-theme="dark"] .project-desc {
   <div class="project-card">
     <img src="/images/portfolio/jiangdong.jpg" alt="Traffic Safety">
     <div class="project-title" onclick="toggleDesc(this)">
-      Safer Design, Safer Traffic
+      Safer Design, Safer Roads
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
@@ -227,7 +227,7 @@ html[data-theme="dark"] .project-desc {
       <img src="/images/portfolio/yuanye20.jpg" alt="Yuanye Cup 2020">
     </a>
     <div class="project-title" onclick="toggleDesc(this)">
-      Community of Life w/ Nature
+      Community of Life, Living with Nature
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
@@ -242,7 +242,7 @@ html[data-theme="dark"] .project-desc {
   <div class="project-card">
     <img src="/images/portfolio/comm_cent.jpg" alt="Community Center">
     <div class="project-title" onclick="toggleDesc(this)">
-      Eco-friendly Community
+      Eco-friendly Community Center
       <span class="toggle-arrow" aria-hidden="true">
         <svg width="18" height="18" viewBox="0 0 18 18">
           <polyline points="4,7 9,12 14,7" fill="none" stroke="#888" stroke-width="2"/>
