@@ -14,17 +14,17 @@ redirect_from:
 Education
 -----
 * Interdisciplinary Ph.D. in Urban Design and Planning, University of Washington, 2024-present
-* M.S. in Statistics (Machine Learning and Big Data Track), University of Washington, 2025-present
-* M.S. in Urban Planning, Peking University, 2024
+* M.S. in Statistics (Machine Learning and Big Data), University of Washington, 2025-present
+* M.S. in Geography, Peking University, 2024
 * B.A. in Economics, Wuhan University, 2021
 * B.Eng. in Urban Planning, Wuhan University, 2021
 
 Selected Honors
 -----
-* Nomination Award for the 15th Qian Xuesen (钱学森) Urban Studies Gold Award
+* Nomination Award for the 15th Qian Xuesen (Tsien Hsue-Shen) Urban Studies Gold Award (One of the highest academic honors in the field of urban studies in China)
 * Hubert M. Blalock Fellowships (2024), University of Washington (~5%)
 * Excellent Graduates (2024), Peking University
 * Excellent Graduates (2021), Wuhan University
-* Lei Jun (雷军) Scholarships (2020), the highest in Wuhan University
+* Lei Jun (Founder & CEO of Xiaomi) Scholarships (2020), the highest in Wuhan University
 * National Scholarships (2019), Ministry of Education, P.R. China (0.5%)
 
