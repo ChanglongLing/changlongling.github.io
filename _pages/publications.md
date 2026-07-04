@@ -7,21 +7,22 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=BOv54g0AAA
 
 Automated and Sustainable Transportation
 -----
-1. **Ling, C.**, Niu, X., Yang, J., Zhou, J., & Yang, T.*, 2024. [Unraveling heterogeneity and dynamics of commuting efficiency: Industry-level insights into evolving efficiency gaps based on a disaggregated excess-commuting framework](https://doi.org/10.1016/j.jtrangeo.2024.103820). _Journal of Transport Geography_, 115: 103820. [Nomination Award for the 15th Qian Xuesen (Tsien Hsue-shen) Urban Studies Gold Award](https://mp.weixin.qq.com/s/LSjj_qdIA4J-4uRUYNCKvg)
-2. **Ling, C.**, Chen, Z.\*, Yang, J., & Yang, T., 2025. [Evaluating inclusive transit-oriented development with location affordability and its influencing factors](https://doi.org/10.1016/j.tra.2025.104672). _Transportation Research Part A: Policy & Practice_, 201: 104672.
-3. **Ling, C.**, Xie, B.\*, & An, Z.\*, 2025. [Traffic safety in relation to multidimensional street network and land use features: A nonlinear analysis with population heterogeneity](https://doi.org/10.1016/j.apgeog.2025.103737). _Applied Geography_, 183: 103737.
-4. **Ling, C.**, Tang, J.*, Zhao, P., Xu, L., Lu, Q., Yang, L., Huang, F., Lyu, W., & Yang, J., 2024. [Unraveling the relation between carbon emission and carbon footprint: A literature review and framework for sustainable transportation](https://doi.org/10.1038/s44333-024-00013-5). _npj Sustainable Mobility and Transport_, 1(13).
-5. Xie, B., **Ling, C.**, & Wang, L.*, 2022. Impact of urban street patterns on traffic safety: A case study of Wuhan city. _City Planning Review_, 46(8): 75-83. (in Chinese)
-6. Zhou, J. & **Ling, C.\***, 2021. Temporal variations of network connectivity and degree centrality in the middle of the Yangtze River (2001-2016). _Resources and Environment in the Yangtze Basin_, 30(3): 544-553. (in Chinese)
+1. **Ling, C.**, Chen, P., Chu, Y., & Shen, Q.* (2026). [Not all teleworkers reduce travel: An intensity-dependent behavioral framework with explainable machine learning](https://doi.org/10.1016/j.tranpol.2026.104267). Transport Policy, 187, 104267.
+2. **Ling, C.**, Chen, Z.\*, Yang, J., & Yang, T. (2025). [Evaluating inclusive transit-oriented development with location affordability and its influencing factors](https://doi.org/10.1016/j.tra.2025.104672). _Transportation Research Part A: Policy & Practice_, 201: 104672.
+3. **Ling, C.**, Xie, B.\*, & An, Z.\* (2025). [Traffic safety in relation to multidimensional street network and land use features: A nonlinear analysis with population heterogeneity](https://doi.org/10.1016/j.apgeog.2025.103737). _Applied Geography_, 183: 103737.
+4. **Ling, C.**, Niu, X., Yang, J., Zhou, J., & Yang, T.* (2024). [Unraveling heterogeneity and dynamics of commuting efficiency: Industry-level insights into evolving efficiency gaps based on a disaggregated excess-commuting framework](https://doi.org/10.1016/j.jtrangeo.2024.103820). _Journal of Transport Geography_, 115: 103820. [Nomination Award, 15th Qian Xuesen (Tsien Hsue-shen) Urban Studies Gold Award](https://mp.weixin.qq.com/s/LSjj_qdIA4J-4uRUYNCKvg)
+5. **Ling, C.**, Tang, J.*, Zhao, P., Xu, L., Lu, Q., Yang, L., Huang, F., Lyu, W., & Yang, J. (2024). [Unraveling the relation between carbon emission and carbon footprint: A literature review and framework for sustainable transportation](https://doi.org/10.1038/s44333-024-00013-5). _npj Sustainable Mobility and Transport_, 1(13).
+6. Xie, B., **Ling, C.**, & Wang, L.* (2022). Impact of urban street patterns on traffic safety: A case study of Wuhan city. _City Planning Review_, 46(8): 75-83. (in Chinese)
+7. Zhou, J. & **Ling, C.\*** (2021). Temporal variations of network connectivity and degree centrality in the middle of the Yangtze River (2001-2016). _Resources and Environment in the Yangtze Basin_, 30(3): 544-553. (in Chinese)
 
 Digital Economy and Smart Cities
 -----
-1. Huang, Y., Yang, J.*, Zhao, Y., & **Ling, C.**, 2026. Retrofitting neighborhood facilities for aging population and declining birthrates: The transformation of childcare to eldercare in Beiyuan Community, Jinhua City, Zhejiang Province. _Urban Development Studies_, 33(3), 111-118. (in Chinese)
-2.	Huang, Y., **Ling, C.**, Yang, J.*, & Zeng, E., 2025. Inclusive home-based community elderly care services: Implication of the Japan’s "retail facility + elderly care" model. _Urban Planning International_. (in Chinese)
-3.	**Ling, C.\*** & Liu, Z., 2024. High-density cities and compact development: Sino-foreign comparisons and implications. _Urban Planning International_, 39(2): 1-8. (in Chinese)
+1. Huang, Y., Yang, J.*, Zhao, Y., & **Ling, C.** (2026). Retrofitting neighborhood facilities for aging population and declining birthrates: The transformation of childcare to eldercare in Beiyuan Community, Jinhua City, Zhejiang Province. _Urban Development Studies_, 33(3), 111-118. (in Chinese)
+2.	Huang, Y., **Ling, C.**, Yang, J.*, & Zeng, E. (2025). Inclusive home-based community elderly care services: Implication of the Japan’s "retail facility + elderly care" model. _Urban Planning International_. (in Chinese)
+3.	**Ling, C.\*** & Liu, Z. (2024). High-density cities and compact development: Sino-foreign comparisons and implications. _Urban Planning International_, 39(2): 1-8. (in Chinese)
 4.	Yang, J.*, **Ling, C.**, & Li, J., 2024. Hypothesizing “Shenzhen - Hong Kong Metropolitan Area” based on Commuting Linkage and Institutional Change. _Urban Development Studies_, 31(12): 67-76. (in Chinese)
-5.	Xie, B., Chen, X., **Ling, C.**, Li, X., & Wei, W.*, 2021. Exploring the Health-Seeking Travel Behaviors and Constraints of COVID-19 Patients in Wuhan, China. _Urban Development Studies_, 28(3): 18-26+49. (in Chinese)
-6.	Ma, Y., **Ling, C.**, & Wu, J.*, 2020. Exploring the spatial distribution characteristics of emotions of Weibo users in Wuhan waterfront based on gender differences using social media texts. _ISPRS International Journal of Geo-Information_, 9(8), 465.
+5.	Xie, B., Chen, X., **Ling, C.**, Li, X., & Wei, W.* (2021). Exploring the Health-Seeking Travel Behaviors and Constraints of COVID-19 Patients in Wuhan, China. _Urban Development Studies_, 28(3): 18-26+49. (in Chinese)
+6.	Ma, Y., **Ling, C.**, & Wu, J.* (2020). Exploring the spatial distribution characteristics of emotions of Weibo users in Wuhan waterfront based on gender differences using social media texts. _ISPRS International Journal of Geo-Information_, 9(8), 465.
 
 <!-- Manuscript under Review
 -----
