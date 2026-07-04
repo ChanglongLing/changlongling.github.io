@@ -22,9 +22,10 @@ I view cities as a collaborative endeavor and enjoy working with others to tackl
 
 News
 -----
+- **[Jun 2026]** New Paper Alert: "Not all teleworkers reduce travel: An intensity-dependent behavioral framework with explainable machine learning" in _Transport Policy_!
 - **[Sep 2025]** Awarded the [Nomination Award for the 15th Qian Xuesen (Tsien Hsue-shen) Urban Studies Gold Award](https://mp.weixin.qq.com/s/LSjj_qdIA4J-4uRUYNCKvg)!
-- **[Sep 2025]** New Paper Alert: Transportation Research Part A: Policy & Practice.
-- **[Aug 2025]** New Paper Alert: Applied Geography.
+- **[Sep 2025]** New Paper Alert: "Evaluating inclusive transit-oriented development with location affordability and its influencing factors" in _Transportation Research Part A: Policy & Practice_.
+- **[Aug 2025]** New Paper Alert: "Traffic safety in relation to multidimensional street network and land use features: A nonlinear analysis with population heterogeneity" in _Applied Geography_.
 - **[Jul 2025]** Invited to give a talk at City+, Zhejiang University.
 - **[Sep 2024]** Awarded [Hubert M. Blalock Fellowships](https://csss.uw.edu/about/blalock-fellowship) by the Center for Statistics and the Social Sciences (CSSS), University of Washington!
 - **[Sep 2024]** New journey, PhD life, starts at the University of Washington!
