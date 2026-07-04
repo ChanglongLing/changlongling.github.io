@@ -7,7 +7,7 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=BOv54g0AAA
 
 Automated and Sustainable Transportation
 -----
-1. **Ling, C.**, Chen, P., Chu, Y., & Shen, Q.* (2026). [Not all teleworkers reduce travel: An intensity-dependent behavioral framework with explainable machine learning](https://doi.org/10.1016/j.tranpol.2026.104267). Transport Policy, 187, 104267.
+1. **Ling, C.**, Chen, P., Chu, Y., & Shen, Q.* (2026). [Not all teleworkers reduce travel: An intensity-dependent behavioral framework with explainable machine learning](https://doi.org/10.1016/j.tranpol.2026.104267). _Transport Policy_, 187, 104267.
 2. **Ling, C.**, Chen, Z.\*, Yang, J., & Yang, T. (2025). [Evaluating inclusive transit-oriented development with location affordability and its influencing factors](https://doi.org/10.1016/j.tra.2025.104672). _Transportation Research Part A: Policy & Practice_, 201: 104672.
 3. **Ling, C.**, Xie, B.\*, & An, Z.\* (2025). [Traffic safety in relation to multidimensional street network and land use features: A nonlinear analysis with population heterogeneity](https://doi.org/10.1016/j.apgeog.2025.103737). _Applied Geography_, 183: 103737.
 4. **Ling, C.**, Niu, X., Yang, J., Zhou, J., & Yang, T.* (2024). [Unraveling heterogeneity and dynamics of commuting efficiency: Industry-level insights into evolving efficiency gaps based on a disaggregated excess-commuting framework](https://doi.org/10.1016/j.jtrangeo.2024.103820). _Journal of Transport Geography_, 115: 103820. [Nomination Award, 15th Qian Xuesen (Tsien Hsue-shen) Urban Studies Gold Award](https://mp.weixin.qq.com/s/LSjj_qdIA4J-4uRUYNCKvg)
