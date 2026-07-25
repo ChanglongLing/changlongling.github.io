@@ -11,21 +11,23 @@ Hi! I'm **Changlong Ling**
 -----
 I am in my second year of the [Interdisciplinary Ph.D. Program in Urban Design and Planning](https://sites.uw.edu/urbdpphd/) and doing my [M.S. in Statistics](https://stat.uw.edu/) at the **_University of Washington_**, where I am advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/). I earned a master's degree in Geography from Peking University and dual bachelor's degrees in Economics and Urban Planning from Wuhan University.
 
-My research interests are in developing artificial intelligence (AI) algorithms and statistical/data science methods to support the integration of automated, electrified vehicles and digital technologies into urban mobility systems. I utilize geospatial, causal, and explainable AI to enhance the economic efficiency, systemic intelligence, and environmental sustainability of future cities and transportation systems, ultimately informing more equitable public policies. I have led several urban and transportation planning projects that were implemented in cities.
+My research interests are in developing artificial intelligence (AI) algorithms and statistical/data science methods to support the integration of automated, electrified vehicles and digital technologies into urban mobility systems. I utilize geospatial, causal, and explainable AI to enhance the systemic intelligence and environmental sustainability of future cities and transportation systems, ultimately informing more equitable public policies. I have led several urban and transportation (master and detailed) planning projects that were implemented in cities.
 
 My current research topics include, but are not limited to:
-- **Automated and Sustainable Transportation**: Electrified Transportation, Autonomous Vehicles for Public Transit, Transportation Decarbonization & Traffic Safety
-- **Digital Economy and Smart Cities**: Remote Work, Urban Sustainability, Transit-Oriented Development, Spatial Optimization & Urban Networks
+- **Automated and Sustainable Transportation**: Electrified Transportation, Autonomous Vehicles for On-demand Mobility, Transportation Decarbonization & Traffic Safety
+- **Digital Economy and Smart Cities**: Remote Work, Urban Regeneration, Transit-Oriented Development, Spatial Optimization & Urban Networks
 - **Artificial Intelligence and Causal Inference**: GeoAI, Causal AI, Explainable AI, Spatial Econometrics, Statistical Inference & Network Science
 
 I view cities as a collaborative endeavor and enjoy working with others to tackle real-world challenges. If you are interested in my work, feel free to reach out :)
 
 News
 -----
-- **[Jun 2026]** New Paper Alert: "Not all teleworkers reduce travel: An intensity-dependent behavioral framework with explainable machine learning" in _Transport Policy_!
+- **[Jul 2026]** New Paper Alert: "[Unveiling amplified socioeconomic disparities in electric vehicle charging infrastructure: Accessibility versus utilization](https://doi.org/10.1016/j.apgeog.2025.103737)" in _Transportation Research Part D: Transport & Environment_!
+- **[Jul 2026]** New Paper Alert: "[No remote, hybrid remote, and full remote: Additional insights from telework intensity](https://doi.org/10.1016/j.trd.2026.105532)" in _Transportation Research Part D: Transport & Environment_!
+- **[Jun 2026]** New Paper Alert: "[Not all teleworkers reduce travel: An intensity-dependent behavioral framework with explainable machine learning](https://doi.org/10.1016/j.tranpol.2026.104267)" in _Transport Policy_!
 - **[Sep 2025]** Awarded the [Nomination Award for the 15th Qian Xuesen (Tsien Hsue-shen) Urban Studies Gold Award](https://mp.weixin.qq.com/s/LSjj_qdIA4J-4uRUYNCKvg)!
-- **[Sep 2025]** New Paper Alert: "Evaluating inclusive transit-oriented development with location affordability and its influencing factors" in _Transportation Research Part A: Policy & Practice_.
-- **[Aug 2025]** New Paper Alert: "Traffic safety in relation to multidimensional street network and land use features: A nonlinear analysis with population heterogeneity" in _Applied Geography_.
+- **[Sep 2025]** New Paper Alert: "[Evaluating inclusive transit-oriented development with location affordability and its influencing factors](https://doi.org/10.1016/j.tra.2025.104672)" in _Transportation Research Part A: Policy & Practice_.
+- **[Aug 2025]** New Paper Alert: "[Traffic safety in relation to multidimensional street network and land use features: A nonlinear analysis with population heterogeneity](https://doi.org/10.1016/j.apgeog.2025.103737)" in _Applied Geography_.
 - **[Jul 2025]** Invited to give a talk at City+, Zhejiang University.
 - **[Sep 2024]** Awarded [Hubert M. Blalock Fellowships](https://csss.uw.edu/about/blalock-fellowship) by the Center for Statistics and the Social Sciences (CSSS), University of Washington!
 - **[Sep 2024]** New journey, PhD life, starts at the University of Washington!
