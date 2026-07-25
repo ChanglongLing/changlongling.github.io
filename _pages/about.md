@@ -22,7 +22,7 @@ I view cities as a collaborative endeavor and enjoy working with others to tackl
 
 News
 -----
-- **[Jul 2026]** New Paper Alert: "[Unveiling amplified socioeconomic disparities in electric vehicle charging infrastructure: Accessibility versus utilization](https://doi.org/10.1016/j.apgeog.2025.103737)" in _Transportation Research Part D: Transport & Environment_!
+- **[Jul 2026]** New Paper Alert: "[Unveiling amplified socioeconomic disparities in electric vehicle charging infrastructure: Accessibility versus utilization](https://doi.org/10.1016/j.trd.2026.105538)" in _Transportation Research Part D: Transport & Environment_!
 - **[Jul 2026]** New Paper Alert: "[No remote, hybrid remote, and full remote: Additional insights from telework intensity](https://doi.org/10.1016/j.trd.2026.105532)" in _Transportation Research Part D: Transport & Environment_!
 - **[Jun 2026]** New Paper Alert: "[Not all teleworkers reduce travel: An intensity-dependent behavioral framework with explainable machine learning](https://doi.org/10.1016/j.tranpol.2026.104267)" in _Transport Policy_!
 - **[Sep 2025]** Awarded the [Nomination Award for the 15th Qian Xuesen (Tsien Hsue-shen) Urban Studies Gold Award](https://mp.weixin.qq.com/s/LSjj_qdIA4J-4uRUYNCKvg)!
