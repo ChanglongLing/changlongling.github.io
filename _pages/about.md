@@ -22,6 +22,7 @@ I view cities as a collaborative endeavor and enjoy working with others to tackl
 
 News
 -----
+- **[Aug 2026]** New Paper Alert: "[Promoting inclusive transit-oriented development in urban regeneration: A network-based spatial multi-objective optimization framework](https://doi.org/10.1016/j.cities.2026.107524)" in _Cities_!
 - **[Jul 2026]** New Paper Alert: "[Unveiling amplified socioeconomic disparities in electric vehicle charging infrastructure: Accessibility versus utilization](https://doi.org/10.1016/j.trd.2026.105538)" in _Transportation Research Part D: Transport & Environment_!
 - **[Jul 2026]** New Paper Alert: "[No remote, hybrid remote, and full remote: Additional insights from telework intensity](https://doi.org/10.1016/j.trd.2026.105532)" in _Transportation Research Part D: Transport & Environment_!
 - **[Jun 2026]** New Paper Alert: "[Not all teleworkers reduce travel: An intensity-dependent behavioral framework with explainable machine learning](https://doi.org/10.1016/j.tranpol.2026.104267)" in _Transport Policy_!
